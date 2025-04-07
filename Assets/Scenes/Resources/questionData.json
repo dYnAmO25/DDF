@@ -1,0 +1,3184 @@
+{
+    "questions": [
+        {
+            "question": "Wie viele Kontinente gibt es?",
+            "answer": "7"
+        },
+        {
+            "question": "In welchem Jahr erschien das Spiel 'Super Mario Brothers' für das SNES in Japan?",
+            "answer": "1985"
+        },
+        {
+            "question": "Wie heißt die Hauptfigur in der Netflix-Serie 'The Witcher'?",
+            "answer": "Geralt von Riva"
+        },
+        {
+            "question": "Was ist der nördlichste Bundestaat der USA?",
+            "answer": "Alaska"
+        },
+        {
+            "question": "In welchem Jahr verstarb der Sänger 'Prince'?",
+            "answer": "2016"
+        },
+        {
+            "question": "Was ist die größte Drüse im menschlichen Körper?",
+            "answer": "Leber"
+        },
+        {
+            "question": "Wie viele Charakter-Klasse gibt es in Diablo 3?",
+            "answer": "6"
+        },
+        {
+            "question": "Wie nennt man den Schläger im Golf der zum einlochen benutzt wird?",
+            "answer": "Putter"
+        },
+        {
+            "question": "Welche Serie spielt in der 'Wisteria Lane'?",
+            "answer": "Desperate Housewives"
+        },
+        {
+            "question": "In welchem Jahr began der 1. Weltkrieg?",
+            "answer": "1914"
+        },
+        {
+            "question": "Wie heißt der Schauspieler der Rolle John McClane aus 'Stirb langsam'?",
+            "answer": "Bruce Willis"
+        },
+        {
+            "question": "Wer schrieb das Buch 'Die Verwandlung'?",
+            "answer": "Franz Kafka"
+        },
+        {
+            "question": "Wie viele Ozeane gibt es auf der Erde?",
+            "answer": "5"
+        },
+        {
+            "question": "In welchem Jahr erschien die Version 1.0 von Minecraft?",
+            "answer": "2011"
+        },
+        {
+            "question": "Wie nennt man das Musikfestival mit Hippie inspirierten Outfits, welches jedes Jahr in Kalifornien stattfindet?",
+            "answer": "Coachella"
+        },
+        {
+            "question": "Was ergibt 32 / 4",
+            "answer": "8"
+        },
+        {
+            "question": "Nenn eines der ersten beiden Spiele von Blizzard?",
+            "answer": "Lost Vikings oder RPM Racing"
+        },
+        {
+            "question": "Welche Pokemon ist die Nummer 4 im Pokedex?",
+            "answer": "Glumanda"
+        },
+        {
+            "question": "Wer ist der aktuelle Präsident von Frankreich?",
+            "answer": "Emmanuel Macron"
+        },
+        {
+            "question": "Wie heißt der Schauspieler von Terminator?",
+            "answer": "Arnold Schwarzenegger"
+        },
+        {
+            "question": "In welchem Jahr wurde die Unabhänigkeitserklärung der USA unterzeichnet?",
+            "answer": "1776"
+        },
+        {
+            "question": "Wie viele Bundesländer hat Deutschland?",
+            "answer": "16"
+        },
+        {
+            "question": "Wie nennt man die größte Art der Raubkatzen?",
+            "answer": "Tiger"
+        },
+        {
+            "question": "In welchem Land spielt das Spiel Farcry 3?",
+            "answer": "Rouge Island"
+        },
+        {
+            "question": "Wer war der berühmte Anfüher der sovetischen Oktoberrevolution?",
+            "answer": "Wladimir Lenin"
+        },
+        {
+            "question": "Wie lautet der Orginaltitle des Films 'Das Schweigen der Lämmer'?",
+            "answer": "The silence of the lambs"
+        },
+        {
+            "question": "Wie heißt der Autor von 'Der Hobit'?",
+            "answer": "John RR Tolkien"
+        },
+        {
+            "question": "Wie viele Spieler sind in einem Volleyball-Team?",
+            "answer": "6"
+        },
+        {
+            "question": "Wie heißt der Amtssitz des US-Präsidenten?",
+            "answer": "Das Weiße Haus"
+        },
+        {
+            "question": "Wie heißt die Assassinen-Figur im ersten Teil von Assassins Creed",
+            "answer": "Altair"
+        },
+        {
+            "question": "Wie heißt das traditonelle italienische Musik-Theater?",
+            "answer": "Oper"
+        },
+        {
+            "question": "Wer war der erste Bundeskanzler Deutschlands?",
+            "answer": "Konrad Adenauer"
+        },
+        {
+            "question": "Wie heißt die Hauptfigur in der Serie 'Breaking Bad'?",
+            "answer": "Walter White"
+        },
+        {
+            "question": "Wer ist der Autor von Harry Potter?",
+            "answer": "Joanne K. Rowling"
+        },
+        {
+            "question": "Wer ist der aktuelle Präsident von Russland?",
+            "answer": "Wladimir Putin"
+        },
+        {
+            "question": "Wie viele Planeten hat unser Sonnensystem?",
+            "answer": "8"
+        },
+        {
+            "question": "Wie heißt nach dem Niel das zweit längste Flusssystem der Erde?",
+            "answer": "Amazonas"
+        },
+        {
+            "question": "Wie viele Spieler sind in einem Eishockeyteam auf dem Eis?",
+            "answer": "6"
+        },
+        {
+            "question": "Wann fand die Entdeckung Amerikas durch Christoph Kolumbus statt?",
+            "answer": "1492"
+        },
+        {
+            "question": "Welches Spiel wurde 2010 bei den Game Critic Awards zum besten Spiel des Jahres gewählt?",
+            "answer": "Portal 2"
+        },
+        {
+            "question": "Was ist die größte Insel der Welt?",
+            "answer": "Grönland"
+        },
+        {
+            "question": "Wer ist der Front-Sänger von U2?",
+            "answer": "Bono"
+        },
+        {
+            "question": "Nenne eines der beiden Instrumente, welche Mozart überwiegend selbst spielen konnte?",
+            "answer": "Geige oder Klavier"
+        },
+        {
+            "question": "In welchem Jahr wurde die Berliner Mauer errichtet?",
+            "answer": "1961"
+        },
+        {
+            "question": "Welches Jahrhunder wird auch als das Zeitalter der Aufklärung bezeichnet?",
+            "answer": "18. Jahrhundert"
+        },
+        {
+            "question": "Was ist die Hauptstadt von Australien?",
+            "answer": "Canberra"
+        },
+        {
+            "question": "Wie nennt man die fähig eines Menschen die höhe eines Tons ohne Hilfsmittel perfekt zu bestimmen?",
+            "answer": "Absolutes Gehör"
+        },
+        {
+            "question": "Wie hoch ist der Mount Everest?",
+            "answer": "8849m"
+        },
+        {
+            "question": "Ist Trampolien springen eine olympische Disziplin?",
+            "answer": "Ja"
+        },
+        {
+            "question": "Was ist das größte Organ des menschlichen Körpers?",
+            "answer": "Die Haut"
+        },
+        {
+            "question": "Welches Spiel aus der Final Fantasy Reihe ist das meist verkaufte?",
+            "answer": "FF7"
+        },
+        {
+            "question": "Worauf sitzt Tom Hanks als er die Pralinen auspackt?",
+            "answer": "Auf der Bank"
+        },
+        {
+            "question": "In welcher Stadt spielt die Serie 'Friends'?",
+            "answer": "New York City"
+        },
+        {
+            "question": "Wie lautet der umgangsprachliche Name der Trophäe, die dem Sieger der UEFA Champions League überreicht wird?",
+            "answer": "Der Henkelpott"
+        },
+        {
+            "question": "Wie heißt das Videospiel, wo die Person Sora gegen böse Kreaturen kämpft?",
+            "answer": "Kindom Hearts"
+        },
+        {
+            "question": "Welches Land hat die meisten Einwohner der Welt?",
+            "answer": "Indien"
+        },
+        {
+            "question": "Wer ist der aktuelle Premierminister von Kanada?",
+            "answer": "Justin Trudeau"
+        },
+        {
+            "question": "Wie nennt man die größte Art der Papageien?",
+            "answer": "Ara"
+        },
+        {
+            "question": "Was ist der größte Kontinent der Erde?",
+            "answer": "Asien"
+        },
+        {
+            "question": "In welchem Jahr endete der 2. Weltkrieg?",
+            "answer": "1945"
+        },
+        {
+            "question": "Wer ist der Sänger von Bohemian Rhapsody?",
+            "answer": "Freddie Mercury"
+        },
+        {
+            "question": "Wie viele Disziplien gibt es ihm Zehnkampf?",
+            "answer": "10"
+        },
+        {
+            "question": "In welchem Jahr erschien das erste Tombraider-Spiel?",
+            "answer": "1996"
+        },
+        {
+            "question": "Wie viele Oscars hat der Film 'Der Herr der Ringe: Die Rückkehr des Königs gewonnen'?",
+            "answer": "11"
+        },
+        {
+            "question": "In welchem Spiel begeht Agent-47 Auftragsmorde?",
+            "answer": "Hitman"
+        },
+        {
+            "question": "Wie heißt die berühmte Serie, die auf den Büchern von George. R. R. Martin basiert?",
+            "answer": "Game of Thrones oder House of the Dragon"
+        },
+        {
+            "question": "Wie viele Mitgliedsstaaten hat die UNO?",
+            "answer": "193"
+        },
+        {
+            "question": "Wer ist der nach Punkten erfolgreichste Basketball-Spieler aller zeiten?",
+            "answer": "LeBron James"
+        },
+        {
+            "question": "Richtig oder Flasch: In Belgien wird die Sprache Belgisch gesprochen?",
+            "answer": "Falsch"
+        },
+        {
+            "question": "Was ist Vergangenheit des englischen Verbes go?",
+            "answer": "went"
+        },
+        {
+            "question": "Wie viel Kubikcentimeter ist ein halber Liter?",
+            "answer": "500"
+        },
+        {
+            "question": "Was ist die Hauptstadt von Panama?",
+            "answer": "Panama City"
+        },
+        {
+            "question": "Wie heißen die zwei größten Inseln Italiens?",
+            "answer": "Sizilien und Sardinien"
+        },
+        {
+            "question": "Welche Farben hat die Flagge von China?",
+            "answer": "Rot und Gelb"
+        },
+        {
+            "question": "Für was steht WHO?",
+            "answer": "World Health Organisation"
+        },
+        {
+            "question": "Die Insel Mallorca liegt im?",
+            "answer": "Mittelmeer"
+        },
+        {
+            "question": "Der wievielte US-Präsident war Barack Obama?",
+            "answer": "44"
+        },
+        {
+            "question": "Wie hieß der Gründer von Ferrari mit Vornamen?",
+            "answer": "Enzo"
+        },
+        {
+            "question": "Was ist das flächenmäßig kleinste Bundesland in Deutschland?",
+            "answer": "Bremen"
+        },
+        {
+            "question": "Nach wem wurde der Nobelpreis benannt?",
+            "answer": "Alfred Nobel"
+        },
+        {
+            "question": "Wie heißt die Hauptstadt von Bulgarien?",
+            "answer": "Sofia"
+        },
+        {
+            "question": "In welchem Land wurde Pablo Picasso geboren?",
+            "answer": "Spanien"
+        },
+        {
+            "question": "Buenos Aires ist die Hauptstadt von?",
+            "answer": "Argentinien"
+        },
+        {
+            "question": "Auf welchen Pferden kann man nicht reiten?",
+            "answer": "Seepferdchen"
+        },
+        {
+            "question": "Wie viele Tasten hat ein Klavier?",
+            "answer": "88"
+        },
+        {
+            "question": "Richtig oder Flasch: Der Vatikan hat ca. 10.000 Einwohner?",
+            "answer": "Falsch (ca. 1000)"
+        },
+        {
+            "question": "Wer sang 2 mal 3 macht 4",
+            "answer": "Pipi Langstrumpf"
+        },
+        {
+            "question": "Wie heißt das Element Gold auf Latein?",
+            "answer": "Aurum"
+        },
+        {
+            "question": "Wie lange ist die reguläre Amtszeit des Bundeskanzlers?",
+            "answer": "4 Jahre"
+        },
+        {
+            "question": "Bei welchem Formel 1 Team hat Sebastian Vettel all seine Titel gewonnen?",
+            "answer": "Redbull Racing"
+        },
+        {
+            "question": "Welche Farben sind in der Niederländischen Flagge enthalten?",
+            "answer": "Blau, weiß, Rot / Orange"
+        },
+        {
+            "question": "Welche Fußballverein wird 'Die Königlichen' genannt?",
+            "answer": "Real Madrid"
+        },
+        {
+            "question": "Auf welchem Kontinent liegt Uganda?",
+            "answer": "Afrika"
+        },
+        {
+            "question": "Wo ist Timbuktu?",
+            "answer": "Mali"
+        },
+        {
+            "question": "Was ist die Judikative?",
+            "answer": "Rechsprechende / Gericht"
+        },
+        {
+            "question": "Was ist eine Primzahl?",
+            "answer": "Eine Zahl, die nur durch 1 und sich selbst teilbar ist."
+        },
+        {
+            "question": "Wie groß ist die Summe aller Winkel eines Dreiecks?",
+            "answer": "180 Grad"
+        },
+        {
+            "question": "Birken sind gut anhand ihrer Rinde zu erkennen, die hat nämlich welche Farbe?",
+            "answer": "Weiß"
+        },
+        {
+            "question": "Richtig oder Falsch: Der zweithöchste Berg Deutschlands ist der Hochwanner?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Wie lang ist die Chinesische Mauer (gerundet)?",
+            "answer": "21.000 Kilometer"
+        },
+        {
+            "question": "Wie viele Minuten hat ein Tag?",
+            "answer": "1440 Minuten"
+        },
+        {
+            "question": "Wie heißt die Hauptstadt von Äthiopien?",
+            "answer": "Addis Abeba"
+        },
+        {
+            "question": "Wer ist der größte Feind von Batman?",
+            "answer": "Joker"
+        },
+        {
+            "question": "Was ist die Hauptstadt von Spanien?",
+            "answer": "Madrid"
+        },
+        {
+            "question": "Elektrische Spannung wird in welcher Einheit gemessen?",
+            "answer": "Volt"
+        },
+        {
+            "question": "Was bedeutet LCD?",
+            "answer": "liquid crystal display"
+        },
+        {
+            "question": "Welche Uhr kann man nur tagsüber ablesen?",
+            "answer": "Die Sonnenuhr"
+        },
+        {
+            "question": "Wie viele Bundesländer hat Österreich?",
+            "answer": "9"
+        },
+        {
+            "question": "In welchem Jahr war die Einführung des Euro?",
+            "answer": "2002"
+        },
+        {
+            "question": "Wo ist der Karpaltunnel?",
+            "answer": "In der Hand"
+        },
+        {
+            "question": "Die Hauptstadt von China ist?",
+            "answer": "Peking"
+        },
+        {
+            "question": "Wie heißt der aktuelle Apple CEO?",
+            "answer": "Tim Cook"
+        },
+        {
+            "question": "Von wem ist der 'Song God is a woman'?",
+            "answer": "Ariana Grande"
+        },
+        {
+            "question": "Wo befindet sich die Klagemauer?",
+            "answer": "Jerusalem"
+        },
+        {
+            "question": "Wer war der Vorgänger von Angela Merkel?",
+            "answer": "Gerhard Schröder"
+        },
+        {
+            "question": "Wie heißt der rote Teletubby?",
+            "answer": "Po"
+        },
+        {
+            "question": "Teneriffa, Gran Canaria und Fuerteventura gehören zu den ...?",
+            "answer": "Kanarischen Inseln"
+        },
+        {
+            "question": "Welcher Planet ist der Sonne am nächsten?",
+            "answer": "Merkur"
+        },
+        {
+            "question": "Was ist die Hauptstadt von Mexico?",
+            "answer": "Mexico City"
+        },
+        {
+            "question": "Richtig oder Falsch: Oslo ist die Hauptstadt von Schweden?",
+            "answer": "Falsch"
+        },
+        {
+            "question": "Welches Schiff ging nach einem Zusammenstoß mit einem Eisberg unter?",
+            "answer": "Titanic"
+        },
+        {
+            "question": "Wie nennt man die Haare von Schweinen?",
+            "answer": "Borsten"
+        },
+        {
+            "question": "Richtig oder Falsch: Michael Schuhmacher wurde 7 mal Formel 1 Weltmeister?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Welches ist das Höchste Bauwerk Deutschlands?",
+            "answer": "Berliner Fernsehturm"
+        },
+        {
+            "question": "Was ist jedes Jahr am 31.10?",
+            "answer": "Halloween, Reformationstag"
+        },
+        {
+            "question": "In welchem Ozean liegt Madagaskar?",
+            "answer": "Indischer Ozean"
+        },
+        {
+            "question": "Wofür steht AFK?",
+            "answer": "Away from Keyboard"
+        },
+        {
+            "question": "Zu welchem Land gehört Grönland politisch?",
+            "answer": "Dänemark"
+        },
+        {
+            "question": "Wieviel ist 3 hoch 3?",
+            "answer": "27"
+        },
+        {
+            "question": "Was war Arnold Schwarzenegger vor seiner Karriere als Schauspieler?",
+            "answer": "Bodybuilder"
+        },
+        {
+            "question": "Eulen gelten als Symbol der ...?",
+            "answer": "Weisheit"
+        },
+        {
+            "question": "Von wem ist das Lied '99 Luftballons'?",
+            "answer": "Nena"
+        },
+        {
+            "question": "Mit wie vielen Nachbarländern teilt Deutschland sich eine Grenze?",
+            "answer": "9"
+        },
+        {
+            "question": "Wie heißt das jüngste Kind der Simpsons?",
+            "answer": "Maggie"
+        },
+        {
+            "question": "Welche drei Staatsgewalten gibt es in Deutschland?",
+            "answer": "Legislative, Exekutive, Judikative"
+        },
+        {
+            "question": "Die Simpsons leben in welcher Stadt?",
+            "answer": "Springfield"
+        },
+        {
+            "question": "Richtig oder Falsch: Dein Herz pumpt Blut?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Welche Stadt hat nach Berlin die meisten Einwohner in Deutschland?",
+            "answer": "Hamburg"
+        },
+        {
+            "question": "Wenn zwei sich streiten, freut sich der ...?",
+            "answer": "Dritte"
+        },
+        {
+            "question": "In welchem Körperorgan wird Insulin produziert?",
+            "answer": "Bauchspeicheldrüse"
+        },
+        {
+            "question": "Woraus besteht die Luft zum großen Teil?",
+            "answer": "Stickstoff"
+        },
+        {
+            "question": "In Welchem Land befindet sich die Stonehenge?",
+            "answer": "England"
+        },
+        {
+            "question": "Wie lange geht ein reguläres Fußballspiel?",
+            "answer": "90 min"
+        },
+        {
+            "question": "Richtig oder Flasch: Microsoft hat das Spiel Minecraft entwickelt?",
+            "answer": "Falsch"
+        },
+        {
+            "question": "Wer war der 1. Präsident der USA?",
+            "answer": "Washington"
+        },
+        {
+            "question": "Welches Land hat die größte Waldfläche?",
+            "answer": "Russland"
+        },
+        {
+            "question": "Wie nennt man den blauen Igel aus der gleichnamigen Spiele Reihe?",
+            "answer": "Sonic"
+        },
+        {
+            "question": "Welches Land hat einen Dreizack auf der Flagge?",
+            "answer": "Babados"
+        },
+        {
+            "question": "Wie heißt der freche Kobold vom Meister Eder",
+            "answer": "Pumuckel"
+        },
+        {
+            "question": "Wie verständigen sich Sporttaucher unter Wasser?",
+            "answer": "Handzeichen"
+        },
+        {
+            "question": "Was ist ein Oxymoron?",
+            "answer": "Ein innerer Widerspruch"
+        },
+        {
+            "question": "Aus welchem chemischen Element bestehen Diamanten?",
+            "answer": "Kohlenstoff"
+        },
+        {
+            "question": "Aus wievielen Hauptinseln besteht Japan?",
+            "answer": "4"
+        },
+        {
+            "question": "Die dritte Nachkommastelle von Pi lautet?",
+            "answer": "1"
+        },
+        {
+            "question": "Welcher Ozean liegt zwischen Europa und Amerika?",
+            "answer": "Atlantik"
+        },
+        {
+            "question": "Wie heißt die Hauptstadt der Slowakei?",
+            "answer": "Bratislava"
+        },
+        {
+            "question": "Amtssprache in Zypern ist?",
+            "answer": "Griechisch und/oder Türkisch"
+        },
+        {
+            "question": "Wie oft ist Deutschland Fußballweltmeister geworden?",
+            "answer": "4 mal"
+        },
+        {
+            "question": "Welcher ist der 'Rote Planet' unseres Sonnensystems?",
+            "answer": "Der Mars"
+        },
+        {
+            "question": "Wie wird die Zahl unter dem Bruchstrich bezeichnet?",
+            "answer": "Nenner"
+        },
+        {
+            "question": "Wie wird die Zahl über dem Bruchstrich bezeichnet?",
+            "answer": "Zähler"
+        },
+        {
+            "question": "Auf welchem Kontinent liegt die Wüste Sahara?",
+            "answer": "Afrika"
+        },
+        {
+            "question": "Was ist der RAM bei einem Computer?",
+            "answer": "Arbeitsspeicher"
+        },
+        {
+            "question": "Nelson Mandela war Präsident von welchem Land?",
+            "answer": "Südafrika"
+        },
+        {
+            "question": "Welches Gemüse ist unter auch unter Erdäpfel bekannt?",
+            "answer": "Kartoffel"
+        },
+        {
+            "question": "Welches Vitamin wird im Körper mit Hilfe von Sonnenlicht gebildet?",
+            "answer": "Vitamin D"
+        },
+        {
+            "question": "Wofür hält Paul Hunn den Rekord, welcher bei 118,1 Dezibel lag?",
+            "answer": "Laut Rülpsen"
+        },
+        {
+            "question": "Warum heißt die Zahnbürste Zahnbürste?",
+            "answer": "Weil Sie Zähne bürstet"
+        },
+        {
+            "question": "Welches deutsche Bundesland hat die meisten Einwohner?",
+            "answer": "NRW"
+        },
+        {
+            "question": "Welcher ist der längste innerdeutsche Fluss?",
+            "answer": "Rhein"
+        },
+        {
+            "question": "Richtig oder Falsch: Um den großen Dynamikraum einer Orgel klingen zu lassen, werden in der Orgel oft bist zu 2000 Saiten verbaut?",
+            "answer": "Falsch, die Orgel macht die Töne durch Luftströme"
+        },
+        {
+            "question": "Richtig oder Falsch: Pluto ist der kleinste Planet unseres Sonnensystems?",
+            "answer": "Flasch"
+        },
+        {
+            "question": "Mit wem verbindet man die Baker Street?",
+            "answer": "Sherlock Holmes"
+        },
+        {
+            "question": "Ab wie vielen Jahren ist man in Deutschland volljährig?",
+            "answer": "18"
+        },
+        {
+            "question": "Wann endete der 1. Weltkrieg?",
+            "answer": "1918"
+        },
+        {
+            "question": "Wie lautet der zweite Planet in unserem Sonnensystem?",
+            "answer": "Venus"
+        },
+        {
+            "question": "Was ist die Flora?",
+            "answer": "Gesamte Pflanzenwelt"
+        },
+        {
+            "question": "Für einen Vollzeitjob sind mindestens wie viele bezahlte Urlaubstage gesetzlich vorgeschrieben?",
+            "answer": "24"
+        },
+        {
+            "question": "Du bist mein Sohn, aber ich nicht dein Vater, wer sagt das?",
+            "answer": "Deine Mutter"
+        },
+        {
+            "question": "Richtig oder Falsch: 50% der Erde sind ca. mit Wasser bedeckt?",
+            "answer": "Falsch, ca. 70%"
+        },
+        {
+            "question": "Maschinen die Luft komprimieren, nennt man ...?",
+            "answer": "Kompressor"
+        },
+        {
+            "question": "Vervollständige: Morgenstund hat ...",
+            "answer": "Gold im Mund"
+        },
+        {
+            "question": "Welches Bundesland ist flächenmäßig das Größte?",
+            "answer": "Bayern"
+        },
+        {
+            "question": "Woher wurde der Spruch 'Hakuna Matata' bekannt?",
+            "answer": "König der Löwen"
+        },
+        {
+            "question": "In welchem Jahr fiel die Berliner Mauer?",
+            "answer": "1989"
+        },
+        {
+            "question": "Welche Konstante wird immer bei der Berechnung einer Kreisfläche benötigt?",
+            "answer": "PI"
+        },
+        {
+            "question": "Wie lang ist eine Meile?",
+            "answer": "Ca. 1610 Meter"
+        },
+        {
+            "question": "Richtig oder Falsch: Die Mona Lisa hatte früher mal Augenbrauen?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Was ist die Quadratwurzel aus 121?",
+            "answer": "11"
+        },
+        {
+            "question": "Was ist die Quadratwurzel aus 144?",
+            "answer": "12"
+        },
+        {
+            "question": "Was ist die Quadratwurzel aus 400?",
+            "answer": "20"
+        },
+        {
+            "question": "Wann wurde das erste iPhone vorgestellt?",
+            "answer": "2007"
+        },
+        {
+            "question": "Ein Quartal besteht aus wie vielen Monaten?",
+            "answer": "3"
+        },
+        {
+            "question": "Was sind die Farben der Flagge von Chile?",
+            "answer": "Rot, Blau & Weiß"
+        },
+        {
+            "question": "Der Kern von Atomen besteht aus Protonen und ...?",
+            "answer": "Neutronen"
+        },
+        {
+            "question": "Leben Pinguine in der Arktis oder in der Antarktis?",
+            "answer": "Antarktis"
+        },
+        {
+            "question": "Wie heißt der kleinste Staat der Welt?",
+            "answer": "Vatikan"
+        },
+        {
+            "question": "Wie ist die Richtgeschwindigkeit auf deutschen Autobahnen?",
+            "answer": "130kmh"
+        },
+        {
+            "question": "Auf welcher Buchreihe basiert die Erfolgsserie Game of Thrones?",
+            "answer": "A Song of Ice and Fire"
+        },
+        {
+            "question": "Wie viele Kräuter sind im Jägermeister?",
+            "answer": "56"
+        },
+        {
+            "question": "In welchem Jahrhunder hat Da vinci die Mona Lisa gemalt?",
+            "answer": "Im 16. Jahrhundert"
+        },
+        {
+            "question": "In welchem Jahr wurde das World Trade Center zerstört?",
+            "answer": "2001"
+        },
+        {
+            "question": "Was bedeutet LOL ausgeschrieben?",
+            "answer": "laughing out loud"
+        },
+        {
+            "question": "Ein Schein-Medikament ohne Wirkung heißt?",
+            "answer": "Placebo"
+        },
+        {
+            "question": "Wie wird Trinkalkohol fachsprachlich noch genannt?",
+            "answer": "Ethanol"
+        },
+        {
+            "question": "Wie lautet das chemische Symbol für Blei?",
+            "answer": "Pb"
+        },
+        {
+            "question": "Welche ist die größte Wüste der Welt?",
+            "answer": "Antarktis"
+        },
+        {
+            "question": "Was ist die größte Trockenwüste der Welt?",
+            "answer": "Die Sahara"
+        },
+        {
+            "question": "In welchem Bundesland befindet sich die Stadt Stuttgart?",
+            "answer": "Baden Würtenberg"
+        },
+        {
+            "question": "Wie nennt man einen jungen Hund?",
+            "answer": "Welpe"
+        },
+        {
+            "question": "Wie heißt die Hauptstadt von Indonesien?",
+            "answer": "Jakarta"
+        },
+        {
+            "question": "Wie viele Spieler stehen beim Eishockey auf dem Feld?",
+            "answer": "12"
+        },
+        {
+            "question": "Wie beginnt Artikel 1 des deutschen Grundgesetzes?",
+            "answer": "Die Würde des Menschen ist unantastbar."
+        },
+        {
+            "question": "Was misst man mit einem Geodreieck?",
+            "answer": "Winkel und Längen"
+        },
+        {
+            "question": "Welcher Partei gehörte Konrad Adenauer an?",
+            "answer": "CDU"
+        },
+        {
+            "question": "Wie lautet der Satz des Pythagoras?",
+            "answer": "a^2+b^2=c^2"
+        },
+        {
+            "question": "Welche ist die Amtssprache in Argentinien?",
+            "answer": "Spanisch"
+        },
+        {
+            "question": "Was ist schwerer eine Unze oder ein Gramm?",
+            "answer": "Eine Unze"
+        },
+        {
+            "question": "Wie viele Bandscheiben hat ein Mensch?",
+            "answer": "23"
+        },
+        {
+            "question": "Wofür steht die Abkürzung CD?",
+            "answer": "Compact Disk"
+        },
+        {
+            "question": "Mit wie vielen Figuren startet ein Schachspiel?",
+            "answer": "32"
+        },
+        {
+            "question": "Wie beginnt die Kreiszahl Pi?",
+            "answer": "3.14"
+        },
+        {
+            "question": "Wie hoch ist die Strafe für einen Gefängnisausbruch in Deutschland?",
+            "answer": "Es gibt keine Strafe"
+        },
+        {
+            "question": "Wie viele Zähne hat ein erwachsener Mensch normalerweise?",
+            "answer": "32"
+        },
+        {
+            "question": "Wofür steht die Abkürzung MINT?",
+            "answer": "Mathematik, Informatik, Naturwissenschaften und Technik"
+        },
+        {
+            "question": "Wie viele Einwohner hat Russland ungefähr?",
+            "answer": "144 Millionen"
+        },
+        {
+            "question": "Wie viele Spieler stehen bei einem Fußballspiel auf dem Platz?",
+            "answer": "22"
+        },
+        {
+            "question": "Wie heißt die Hauptstadt von Brasilien?",
+            "answer": "Brasilia"
+        },
+        {
+            "question": "Wie viele Knochen hat ein Erwachsenenkörper?",
+            "answer": "206"
+        },
+        {
+            "question": "Wieviele Milligramm sind 1 Gramm?",
+            "answer": "1000"
+        },
+        {
+            "question": "Zu welchem Land gehört die Osterinsel?",
+            "answer": "Chile"
+        },
+        {
+            "question": "Welchen Aggregatzustand hat Queksilver bei Raumtemperatur?",
+            "answer": "Flüßig"
+        },
+        {
+            "question": "Wofür steht das 'L' in RTL?",
+            "answer": "Luxemburg"
+        },
+        {
+            "question": "Welcher amerikanische Präsident ist auf der Dollar-Note abgebildet?",
+            "answer": "Washington"
+        },
+        {
+            "question": "Wie heißt das bekannte gelbe mausartige Pokemon?",
+            "answer": "Pikachu"
+        },
+        {
+            "question": "An was glaubt Yugi?",
+            "answer": "An das Herz der Karten"
+        },
+        {
+            "question": "In welchem Monat feiern die meisten Menschen Neujahr?",
+            "answer": "Januar"
+        },
+        {
+            "question": "Wie heißt das größte Technologieunternehmen in Südkorea?",
+            "answer": "Samsung"
+        },
+        {
+            "question": "In welcher Einheit wird der elektrische Widerstand gemessen?",
+            "answer": "Ohm"
+        },
+        {
+            "question": "Wie heißt die Kinderserie mit Tieren wie dem Esel I-ah oder einem Ferkel?",
+            "answer": "Winnie Puuh"
+        },
+        {
+            "question": "Was wird durch den längsten Felstunnel der Erde transportiert?",
+            "answer": "Wasser"
+        },
+        {
+            "question": "Welcher ist der höchste Berg in Deutschland?",
+            "answer": "Zugspitze"
+        },
+        {
+            "question": "Welche Farben enthält die Flagge von Argentinien?",
+            "answer": "Blau, weiß, Gelb"
+        },
+        {
+            "question": "Richtig oder Falsch: Die Blackbox in einem Flugzeug ist schwarz?",
+            "answer": "Falsch, orange"
+        },
+        {
+            "question": "Richtig oder Falsch: Hamburg hat mehr Einwohner als das Saarland?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Welche Farben muss man mischen um die Farbe Lila zu bekommen?",
+            "answer": "Rot und blau"
+        },
+        {
+            "question": "Wer hat die Mona Lisa gemalt?",
+            "answer": "Leonardo Da Vinci"
+        },
+        {
+            "question": "Wen beten Buddhisten an?",
+            "answer": "Niemanden"
+        },
+        {
+            "question": "Wer wählt den Bundespräsidenten?",
+            "answer": "Bundesversammlung"
+        },
+        {
+            "question": "In welchem US Bundesstaat befindet sich Alcatraz?",
+            "answer": "Kalifornien"
+        },
+        {
+            "question": "Welche Parteien sind an einer Jamaika-Koalition beteiligt?",
+            "answer": "CDU, Grüne, FDP"
+        },
+        {
+            "question": "Was wird durch Antibiotika bekämpft?",
+            "answer": "Bakterien"
+        },
+        {
+            "question": "Ein Wassermolekül besteht aus wievielen Atomen?",
+            "answer": "3"
+        },
+        {
+            "question": "Welche Himmelsrichtung liegt gegenüber von Süden?",
+            "answer": "Norden"
+        },
+        {
+            "question": "Richtig oder Flasch: Deutschland hat weniger als 80 Millionen Einwohner?",
+            "answer": "Falsch"
+        },
+        {
+            "question": "Was ist der Überbegriff für Google, Yahoo, Bing, etc?",
+            "answer": "Suchmaschine"
+        },
+        {
+            "question": "Wofür stehen die olympischen Ringe?",
+            "answer": "Für die fünf Kontinente"
+        },
+        {
+            "question": "Richtig oder Falsch: Wenn man kurzsichtig ist sieht man nahe Dinge gut?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Welche Formel berechnet den Kreisumfang?",
+            "answer": "2r*PI"
+        },
+        {
+            "question": "Richtig oder Falsch: Die Bahamas liegen näher an Florida als an Jamaika?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "In welchem Küchengerät kann man sehr schnell essen erwärmen und Auftauen?",
+            "answer": "Mikrowelle"
+        },
+        {
+            "question": "Was bedeutet die Abkürzung GaLiGrü?",
+            "answer": "Ganz liebe Grüße"
+        },
+        {
+            "question": "Welche ist die meist gesprochene Sprache in Belgien?",
+            "answer": "Niederländisch"
+        },
+        {
+            "question": "Wie heißt der 2. Fall in der deutschen Grammatik?",
+            "answer": "Genitiv"
+        },
+        {
+            "question": "Wo geht die Sonne unter?",
+            "answer": "Westen"
+        },
+        {
+            "question": "Wie heißt die Hauptstadt des US-Bundesstaates Kentucky?",
+            "answer": "Frankfort"
+        },
+        {
+            "question": "Richtig oder Falsch: Lichtwellen bewegen sich schneller als Schallwellen?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "In welchem Jahr fiel die Berliner Mauer?",
+            "answer": "1998"
+        },
+        {
+            "question": "Was ist das Plural von Maximum?",
+            "answer": "Maxima"
+        },
+        {
+            "question": "Was ist die Stadt mit den meisten Einwohnern?",
+            "answer": "Tokio"
+        },
+        {
+            "question": "Wie viele Oscars gewann der Film 'Titanic'?",
+            "answer": "11"
+        },
+        {
+            "question": "Welches Land ist flächenmäßig das zweitgrößte der Erde?",
+            "answer": "Kanada"
+        },
+        {
+            "question": "Wen suchen Nemo und sein Vater im Nachfolger von 'Findet Nemo'?",
+            "answer": "Dory"
+        },
+        {
+            "question": "In welchem Jahrhundert wurde Picasso geboren?",
+            "answer": "19. Jahrhundert"
+        },
+        {
+            "question": "Wie hoch ist die Mehrwertsteuer in Deutschland?",
+            "answer": "19 Prozent"
+        },
+        {
+            "question": "Was ist 12 * 12?",
+            "answer": "144"
+        },
+        {
+            "question": "Wo geht die Sonne auf?",
+            "answer": "Osten"
+        },
+        {
+            "question": "Wo steht das Burj Khalifa?",
+            "answer": "Dubai"
+        },
+        {
+            "question": "Das flächenstärkste Land in der EU ist?",
+            "answer": "Frankreich"
+        },
+        {
+            "question": "Wie heißt eine männliche Biene?",
+            "answer": "Drohne"
+        },
+        {
+            "question": "Welche Stadt hat das Kfz Kennzeichen A?",
+            "answer": "Augsburg"
+        },
+        {
+            "question": "Wie heißt die Hauptstadt von Thüringen?",
+            "answer": "Erfurt"
+        },
+        {
+            "question": "Richtig oder Falsch: Zebras werden ohne Streifen geboren?",
+            "answer": "Falsch"
+        },
+        {
+            "question": "Welche Farbe hat die Haut eines Eisbären?",
+            "answer": "Schwarz"
+        },
+        {
+            "question": "Wofür steht die Abkürzung DIY",
+            "answer": "Do it yourself"
+        },
+        {
+            "question": "Wie heißt die südamerikanische Stadt in der Papst Franziskus geboren wurde?",
+            "answer": "Buenos Aires"
+        },
+        {
+            "question": "Wie heißt der Sänger von 'She doesnt mind'?",
+            "answer": "Sean Paul"
+        },
+        {
+            "question": "Richtig oder Falsch: Der Kuckuck legt seine Eier in fremde Nester",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Welche Gott trägt einen Hammer und ist der Sohn von Odin?",
+            "answer": "Thor"
+        },
+        {
+            "question": "Auch ein blindes Hühn ...?",
+            "answer": "findet mal ein Korn"
+        },
+        {
+            "question": "Wie heißen die Neffen von Donald Duck?",
+            "answer": "Tick, Trick und Track"
+        },
+        {
+            "question": "In welcher Stadt steht der schiefe Turm?",
+            "answer": "Pisa"
+        },
+        {
+            "question": "Wie nennt man die Schwester der Mutter?",
+            "answer": "Tante"
+        },
+        {
+            "question": "Wo steht die Freiheitsstatue?",
+            "answer": "New York City"
+        },
+        {
+            "question": "Wie viele Beine haben drei Spinnen zusammen?",
+            "answer": "24"
+        },
+        {
+            "question": "Wie heißt die japanische Videospielfirma, welche zunächst Speilkarten herstellte?",
+            "answer": "Nintendo"
+        },
+        {
+            "question": "Wie viele Zeitzonen hat Deutschland?",
+            "answer": "1"
+        },
+        {
+            "question": "Wie viele Zeitzonen hat Frankreich?",
+            "answer": "12"
+        },
+        {
+            "question": "Wie viele Zeitzonnen gibt es?",
+            "answer": "24"
+        },
+        {
+            "question": "Wie heißt die Hauptstadt von Frankreich?",
+            "answer": "Paris"
+        },
+        {
+            "question": "Wofür steht bei einem Hautpflegeprodukt 'LSF'?",
+            "answer": "Licht Schutz Faktor"
+        },
+        {
+            "question": "Welche Tageszeit ist es in Melbourne, wenn es in Deutschland Mittag ist?",
+            "answer": "Nacht"
+        },
+        {
+            "question": "Welche Computerfirma wurde 1976 gegründet?",
+            "answer": "Apple"
+        },
+        {
+            "question": "Wo steht der Eifelturm?",
+            "answer": "Paris"
+        },
+        {
+            "question": "Wo steht das Atomium?",
+            "answer": "Brüssel"
+        },
+        {
+            "question": "Wie viele Kanten hat eine quadratische Pyramide?",
+            "answer": "8"
+        },
+        {
+            "question": "Wo wachsen Perlen?",
+            "answer": "In Muscheln"
+        },
+        {
+            "question": "Wie viele Tordurchgänge hat das Brandenburger Tor?",
+            "answer": "5"
+        },
+        {
+            "question": "Welche Galaxy ist der Milchstraße am nächsten?",
+            "answer": "Andromeda"
+        },
+        {
+            "question": "Was ist die Hauptstadt von NRW?",
+            "answer": "Düsseldorf"
+        },
+        {
+            "question": "Welcher Hai hat eine Blick von fast 360 Grad?",
+            "answer": "Hammerhai"
+        },
+        {
+            "question": "Wer moderiert 'Wer wird Millionär'?",
+            "answer": "Günther Jauch"
+        },
+        {
+            "question": "Wie heißen die mexikanischen Maischips?",
+            "answer": "Nachos"
+        },
+        {
+            "question": "In welcher Sportart springt man in eine Halfpipe?",
+            "answer": "Skaten"
+        },
+        {
+            "question": "Was ist die Hauptstadt von Ungarn?",
+            "answer": "Budapest"
+        },
+        {
+            "question": "Was ist die nächst größere Flächeneinheit nach Quadratcentimeter?",
+            "answer": "Quadratdezimeter"
+        },
+        {
+            "question": "Wie heißt die europäische Stadt, in der jedes Jahr das Volksfest mit den meisten Besuchern stattfindet?",
+            "answer": "München"
+        },
+        {
+            "question": "Was ist neben Zucker die Hauptzutat von Marzipan?",
+            "answer": "Mandeln"
+        },
+        {
+            "question": "Welche Zahl repräsentiert die römische Ziffer 'L'?",
+            "answer": "50"
+        },
+        {
+            "question": "Welches ist das leichteste chemische Element?",
+            "answer": "Wasserstoff"
+        },
+        {
+            "question": "Wie viele Zacken hat eine Kuchengabel üblicherweise?",
+            "answer": "3"
+        },
+        {
+            "question": "Aus welchem Land kommt die Band 'AC/DC'?",
+            "answer": "Australien"
+        },
+        {
+            "question": "Welche Frucht wird auf der Welt am meisten gegessen?",
+            "answer": "Mango"
+        },
+        {
+            "question": "Richtig oder Falsch: Reebok war eine Marke von Adidas?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Wie heißt der tiefste Graben im Pazifischen Ozean?",
+            "answer": "Marianengraben"
+        },
+        {
+            "question": "Was verwendet man um chemische Elemente übersichtlich darzustellen?",
+            "answer": "Periodensystem"
+        },
+        {
+            "question": "Richtig oder Falsch: Haribo gehörte mal zu Nestle?",
+            "answer": "Falsch"
+        },
+        {
+            "question": "In welcher fiktiven Stadt spielt 'GTA4'?",
+            "answer": "Liberty City"
+        },
+        {
+            "question": "Wie viele verschiedene Cent-Münzen gibt es?",
+            "answer": "6"
+        },
+        {
+            "question": "Wen ein Zug mit 100kmh fährt, nach wie vielen Minuten hat er 50 Kilometer zurück gelegt?",
+            "answer": "30 Minuten"
+        },
+        {
+            "question": "Welcher Fahrer wurde 2022 Formel-1 Weltmeister?",
+            "answer": "Max Verstappen"
+        },
+        {
+            "question": "In welchem Jahrhundert wurde die Glühbiren erfunden?",
+            "answer": "19. Jahrhundert"
+        },
+        {
+            "question": "Wie heißt der Werbespruch von Ferrero Duplo?",
+            "answer": "Die wahrscheinlich längste Praline der Welt"
+        },
+        {
+            "question": "In welcher Stadt steht der höchste Kirchenturm der Welt?",
+            "answer": "Ulm"
+        },
+        {
+            "question": "Wie heißt die Schnecke von Sponge Bob?",
+            "answer": "Gary"
+        },
+        {
+            "question": "Welche Verschwörungstheorie gibt es seit 1969?",
+            "answer": "Die fälschung der Mondlandung"
+        },
+        {
+            "question": "Wann war die Mondlandung?",
+            "answer": "1969"
+        },
+        {
+            "question": "Wie heißt die seit 2009 in Köln stattfindende Videospielmesse?",
+            "answer": "Gamescom"
+        },
+        {
+            "question": "Gegen wen treten die TV-Moderatoren in der Sendung Duell um die Welt an?",
+            "answer": "Gegeneinander"
+        },
+        {
+            "question": "Richtig oder Falsch: Kamelbabys werden ohne Höcker geboren?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Was ist die Landeshauptstadt von Brandenburg?",
+            "answer": "Potsdam"
+        },
+        {
+            "question": "Wie viele Cent Münzen braucht man mindestens um 69 ct zu bilden?",
+            "answer": "5"
+        },
+        {
+            "question": "Wann wird der Tag der deutschen Einheit gefeiert?",
+            "answer": "3. Oktober"
+        },
+        {
+            "question": "Wie lange dauerte der 30 jährige Krieg?",
+            "answer": "30 Jahre"
+        },
+        {
+            "question": "Welcher Komponist schrieb die kleine Nachtmusik?",
+            "answer": "Mozart"
+        },
+        {
+            "question": "Wie heißt der beste Freund der Biene Maya?",
+            "answer": "Willy"
+        },
+        {
+            "question": "Wie nennt man Vögel die im Winter in den Süden fliegen?",
+            "answer": "Zugvögel"
+        },
+        {
+            "question": "Ab wie viel Grad kocht Wasser bei normaldruck?",
+            "answer": "100° Celsius"
+        },
+        {
+            "question": "Wie nennt man ein kugelförmiges Schneehaus?",
+            "answer": "Iglu"
+        },
+        {
+            "question": "In welchem Jahr fand die Französische Revolution statt?",
+            "answer": "1789"
+        },
+        {
+            "question": "Welcher Fluss fließt durch Rom?",
+            "answer": "Der Tiber"
+        },
+        {
+            "question": "Welcher Fluss ist der längste in Europa?",
+            "answer": "Die Wolga"
+        },
+        {
+            "question": "Welches ist der längste Fluss Italiens?",
+            "answer": "Der Po"
+        },
+        {
+            "question": "Welcher Ozean ist der drittgrößte der Welt?",
+            "answer": "Der Indische Ozean"
+        },
+        {
+            "question": "Welches Land hat die meisten aktiven Vulkane?",
+            "answer": "Indonesien"
+        },
+        {
+            "question": "Welcher Stern ist nach der Sonne der hellste am Nachthimmel?",
+            "answer": "Sirius"
+        },
+        {
+            "question": "Welches ist das größte Landsäugetier?",
+            "answer": "Der Afrikanische Elefant"
+        },
+        {
+            "question": "Wie lautet die Quersumme aus 362?",
+            "answer": "11"
+        },
+        {
+            "question": "Wie viele Nieren hat ein Mensch?",
+            "answer": "2"
+        },
+        {
+            "question": "Welches Tier ist das größte der Welt?",
+            "answer": "Blauwal"
+        },
+        {
+            "question": "Wie viele Flügel hat ein Schmetterling?",
+            "answer": "4"
+        },
+        {
+            "question": "Wie viele Ringe hat das olympische Symbol?",
+            "answer": "5"
+        },
+        {
+            "question": "Welcher Fluss ist der längste in Afrika?",
+            "answer": "Der Nil"
+        },
+        {
+            "question": "Welcher Fluss fließt durch Paris?",
+            "answer": "Die Seine"
+        },
+        {
+            "question": "In welchem Jahr wurde die erste kommerzielle Flugverbindung eingerichtet?",
+            "answer": "1914"
+        },
+        {
+            "question": "Welche Hauptstadt liegt am weitesten nördlich?",
+            "answer": "Reykjavík, Island"
+        },
+        {
+            "question": "Wer war während des 2. Weltkriegs US-Präsident?",
+            "answer": "Roosevelt"
+        },
+        {
+            "question": "Welcher Fluss fließt durch New Orleans?",
+            "answer": "Der Mississippi"
+        },
+        {
+            "question": "Welcher Ozean ist der kleinste der Welt?",
+            "answer": "Der Arktische Ozean"
+        },
+        {
+            "question": "Was ist schwerer: Ein Kilogramm Federn oder ein Kilogramm Steine?",
+            "answer": "Beide wiegen gleich viel"
+        },
+        {
+            "question": "Wer komponierte die Mondscheinsonate?",
+            "answer": "Ludwig van Beethoven"
+        },
+        {
+            "question": "Wer erfand die Relativitätstheorie?",
+            "answer": "Albert Einstein"
+        },
+        {
+            "question": "Welches chemische Element hat die Ordnungszahl 26?",
+            "answer": "Eisen"
+        },
+        {
+            "question": "Welches ist das am dichtesten besiedelte Land der Welt?",
+            "answer": "Monaco"
+        },
+        {
+            "question": "Wie nennt man den kleinsten Knochen im menschlichen Körper?",
+            "answer": "Steigbügel"
+        },
+        {
+            "question": "Welcher Fluss fließt durch Kairo?",
+            "answer": "Der Nil"
+        },
+        {
+            "question": "Wie viele Farben hat ein Regenbogen?",
+            "answer": "7"
+        },
+        {
+            "question": "Welcher Kontinent hat die meisten Länder?",
+            "answer": "Afrika"
+        },
+        {
+            "question": "Putin ist Mitautor eines Fachbuches über welche Kampfsportart?",
+            "answer": "Judo"
+        },
+        {
+            "question": "Welches ist das am häufigsten konsumierte Getränk der Welt nach Wasser?",
+            "answer": "Tee"
+        },
+        {
+            "question": "Welcher Berg ist der höchste in Japan?",
+            "answer": "Mount Fuji"
+        },
+        {
+            "question": "Welches ist das schnellste Landtier?",
+            "answer": "Der Gepard"
+        },
+        {
+            "question": "Wie nennt sich der mythologische griechische Götterbote?",
+            "answer": "Hermes"
+        },
+        {
+            "question": "Welcher Berg ist der höchste in Afrika?",
+            "answer": "Kilimandscharo"
+        },
+        {
+            "question": "Welches ist das meistbesuchte Kunstmuseum der Welt?",
+            "answer": "Der Louvre in Paris"
+        },
+        {
+            "question": "Wie viele Sinne hat der Mensch nach heutigem Wissensstand?",
+            "answer": "5"
+        },
+        {
+            "question": "Welcher Fluss fließt durch Wien?",
+            "answer": "Die Donau"
+        },
+        {
+            "question": "Welches ist das Land mit der niedrigsten Bevölkerungsdichte?",
+            "answer": "Mongolei"
+        },
+        {
+            "question": "Wo stehen die meisten Pyramiden?",
+            "answer": "Im Sudan"
+        },
+        {
+            "question": "Richtig oder Falsch: Die Antarktis war früher ein tropisches Land mit üppiger Vegetation?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Wie nennt man Magma bei einem Vulkanausbruch?",
+            "answer": "Lava"
+        },
+        {
+            "question": "In welchem Land wird der meiste Käse produziert?",
+            "answer": "USA"
+        },
+        {
+            "question": "Richtig oder Falsch: Die Stachelpalme ist ein Nadelbaum?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Welche beiden Länder verbindet der Eurotunnel?",
+            "answer": "England und Frankreich"
+        },
+        {
+            "question": "Die Oberseite einer Europalette besteht aus wie vielen Deckbrettern?",
+            "answer": "5"
+        },
+        {
+            "question": "Welche Ziffern Werden in dem Binär-System verwendet?",
+            "answer": "1 und 0"
+        },
+        {
+            "question": "Wie wird die gigantische Explosion eines Sternes am Ende seiner Lebenszeit genannt?",
+            "answer": "Supernova"
+        },
+        {
+            "question": "Wie heißt der Zauberer, welcher die Schlümpfe jagt?",
+            "answer": "Gargarmel"
+        },
+        {
+            "question": "Woran erkennt man, ob eine Schlange giftig ist?",
+            "answer": "An den Augen"
+        },
+        {
+            "question": "Jemand der an Heterochromie leidet hat welche Augenfarbe?",
+            "answer": "Zwei Verschiedene"
+        },
+        {
+            "question": "Welche Farben enthält die Flagge von Indonesien?",
+            "answer": "Rot und Weiß"
+        },
+        {
+            "question": "Wie heißt die Hauptstadt von Tschechien?",
+            "answer": "Prag"
+        },
+        {
+            "question": "Welches Gebierge ist in der griechischen Mythologie der Sitz der Götter?",
+            "answer": "Der Olymp"
+        },
+        {
+            "question": "Wie nennt man ein schwarzes Pferd?",
+            "answer": "Rappe"
+        },
+        {
+            "question": "Wie heißt die Währung welche 2009 ohne irgendeine staatliche Kontrolle eingeführt wurde?",
+            "answer": "Bitcoin"
+        },
+        {
+            "question": "Wie viel ist 4 * 16?",
+            "answer": "64"
+        },
+        {
+            "question": "Ailurophobie beschreibt die Angst vor ...?",
+            "answer": "Katzen"
+        },
+        {
+            "question": "Wie heißt die Stadt, wo auf einem zentralen Platz die Basilius-Kathedrale steht?",
+            "answer": "Moskau"
+        },
+        {
+            "question": "Wie heißt die Stadt Konstantinopel heute?",
+            "answer": "Istanbul"
+        },
+        {
+            "question": "Was ist die Hauptstadt der Türkei?",
+            "answer": "Ankara"
+        },
+        {
+            "question": "Wie viel Pixel hat ein Megapixel?",
+            "answer": "1 Millionen"
+        },
+        {
+            "question": "Um welche Sportart geht es in dem Film 'Million Dollar Baby'?",
+            "answer": "Boxen"
+        },
+        {
+            "question": "Was bedeutet im E-Sport die Abkürzung APM?",
+            "answer": "Actions per Minute"
+        },
+        {
+            "question": "Welche Rockband gab als erstes Konzerte auf allen Kontinenten?",
+            "answer": "Metallica"
+        },
+        {
+            "question": "Richtig oder Flasch: BMW ist ein Acronym?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Aus welchen Disziplien besteht ein Triathlon?",
+            "answer": "Laufen, Fahrrad fahren und Schwimmen"
+        },
+        {
+            "question": "Wie heißt der Fluss, welchen man in der griechischen Mythologie in der Unterwelt überquert?",
+            "answer": "Styx oder Acheron"
+        },
+        {
+            "question": "Wie heißen die Frauen, welche in der nordischen Mythologie die Schicksale spinnen?",
+            "answer": "Nornen"
+        },
+        {
+            "question": "Wie heißt die Eule von Harry Potter?",
+            "answer": "Hedwig"
+        },
+        {
+            "question": "Wie viele Löcher hat eine Breze?",
+            "answer": "3"
+        },
+        {
+            "question": "Wie heißt die Landeshauptstadt von Rheinland-Pfalz?",
+            "answer": "Mainz"
+        },
+        {
+            "question": "Richtig oder Flasch: Ein Leistenkrokodil kann oft über 5m lang werden?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Wie werden in Japan Karpfen genannt, welche speziel wegen ihrer Farbe für Teiche züchtet?",
+            "answer": "Koi"
+        },
+        {
+            "question": "Richtig oder Falsch: Das Great Barrier Reef ist vom Weltraum aus sichtbar?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Was für ein Tier ist Kaa aus dem Jungelbuch?",
+            "answer": "Eine Schlange"
+        },
+        {
+            "question": "Wo im menschlichen Körper befindet sich der Steigbügel?",
+            "answer": "Im Ohr"
+        },
+        {
+            "question": "Welches Küstenland ist an drei Seiten fast komplett von Indien umschlossen?",
+            "answer": "Bangladesh"
+        },
+        {
+            "question": "In welchem Ozean befindet sich das Bermuda-Dreieck?",
+            "answer": "Im Atlantik"
+        },
+        {
+            "question": "Richtig oder Flasch: Die Firma SquareEnix schloss sich aus den Firmen Enix und Square zusammen?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Wie heißt die Fruch der Hundsrose?",
+            "answer": "Hagebutte"
+        },
+        {
+            "question": "Wie heißt die Hauptstadt von Lettland?",
+            "answer": "Riga"
+        },
+        {
+            "question": "Welches Nagetier baut Dämme?",
+            "answer": "Bieber"
+        },
+        {
+            "question": "Welche Stadt wird als Big Apple bezeichnet?",
+            "answer": "New York City"
+        },
+        {
+            "question": "Wie hieß New York ursprünglich?",
+            "answer": "New Amsterdam"
+        },
+        {
+            "question": "Richtig oder Flasch: Der Royal Flush ist die höchste Hand beim Poker?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Welche Zalh ist beim Black Jack besonders wichtig?",
+            "answer": "21"
+        },
+        {
+            "question": "Wie viele Buchstaben hat das moderne latainische Alphabet?",
+            "answer": "26"
+        },
+        {
+            "question": "Wie schnell bewegt sich Licht?",
+            "answer": "300.000 km/s"
+        },
+        {
+            "question": "Wie schnell bewegt sich Schall?",
+            "answer": "343 m/s"
+        },
+        {
+            "question": "Wie viele Flächen hat ein Würfel?",
+            "answer": "6"
+        },
+        {
+            "question": "Welcher Vogel wird als diebisch bezeichnet?",
+            "answer": "Elster"
+        },
+        {
+            "question": "Was ist die Wurzel aus 225?",
+            "answer": "15"
+        },
+        {
+            "question": "In welcher Galaxy leben wir?",
+            "answer": "Milchstraße"
+        },
+        {
+            "question": "Wie heißt unser Mond?",
+            "answer": "Luna"
+        },
+        {
+            "question": "Um welche Fischart handelt es sich bei Nemo aus 'Findet Nemo'?",
+            "answer": "Clownfisch"
+        },
+        {
+            "question": "Um welche Fischart handelt es sich bei Dory aus 'Findet Nemo'?",
+            "answer": "Doktorfisch"
+        },
+        {
+            "question": "Welche Stadt wird auch Hauptstadt Europas genannt?",
+            "answer": "Brüssel"
+        },
+        {
+            "question": "In welcher Mincraft Version wurde die Elytra in Minecraft hinzugefügt?",
+            "answer": "1.9"
+        },
+        {
+            "question": "Wenn eine Säure einen pH-Wert von 7 hat, dann ist sie ...?",
+            "answer": "neutral"
+        },
+        {
+            "question": "Wie heißt der größte europäische Flugzeughersteller?",
+            "answer": "Airbus"
+        },
+        {
+            "question": "Welches Land hat eine AK-47 auf der Flagge?",
+            "answer": "Mosambik"
+        },
+        {
+            "question": "Richtig oder Flasch: Jaguare leben vorallem in Asien?",
+            "answer": "Falsch"
+        },
+        {
+            "question": "Welche Person wurde mit den meisten Oscars ausgezeichnet?",
+            "answer": "Walt Disney"
+        },
+        {
+            "question": "Was sind die größten Nagetiere der Welt?",
+            "answer": "Capybara"
+        },
+        {
+            "question": "Wann wurde der Rubiks-Cube erfunden?",
+            "answer": "1974"
+        },
+        {
+            "question": "Wann wurde die Videoplattform Twitch gegründet?",
+            "answer": "2011"
+        },
+        {
+            "question": "Wann hat Deutschland das letzte mal den Eurovison-Songcontest gewonnen?",
+            "answer": "2010"
+        },
+        {
+            "question": "Nenne drei Nachbarländer von Spanien?",
+            "answer": "Frankreich, Portugal, Andorra und Gibraltar"
+        },
+        {
+            "question": "Für welche Trikotnummer ist Christiano Ronaldo bekannt?",
+            "answer": "7"
+        },
+        {
+            "question": "Wie heißt der Dachverband des deutschen Fußballs?",
+            "answer": "DFB"
+        },
+        {
+            "question": "Wie heißt einer der Gründer von Disney?",
+            "answer": "Walt Disney oder Roy Disney"
+        },
+        {
+            "question": "Wie hieß TikTok vor der übernahme durch ByteDance?",
+            "answer": "musical.ly"
+        },
+        {
+            "question": "Nach was ist der Monat ist Juli benannt?",
+            "answer": "Julius Cäsar"
+        },
+        {
+            "question": "Richtig oder Flasch: Die Figur Herobrine exestiert in Minecraft?",
+            "answer": "Falsch"
+        },
+        {
+            "question": "Was ist ein anderes Wort für eine Klosterfrau?",
+            "answer": "Nonne"
+        },
+        {
+            "question": "Welche Augenfarbe haben Rentiere im Winter?",
+            "answer": "Blau"
+        },
+        {
+            "question": "Von wem stammt das bekannte Lied 'Beat It'?",
+            "answer": "Michael Jackson"
+        },
+        {
+            "question": "Wie heißt das Jugendwort des Jahres 2022?",
+            "answer": "Smash"
+        },
+        {
+            "question": "Auf welcher Erdhalbkugel liegen die Philippinen?",
+            "answer": "Nordhalbkugel"
+        },
+        {
+            "question": "Welcher Baum ist seit 2004 der Nationalbaum der USA?",
+            "answer": "Die Eiche"
+        },
+        {
+            "question": "Wie heißt das rote Auto mit der Nummer 95?",
+            "answer": "Lightning McQueen"
+        },
+        {
+            "question": "Was sind die drei Farben, aus dem der RGB-Farbmodus besteht?",
+            "answer": "Rot, Grün, Blau"
+        },
+        {
+            "question": "Welcher Schauspieler spielt James Bond im Film 'Skyfall'?",
+            "answer": "Daniel Craig"
+        },
+        {
+            "question": "Richtig oder Flasch: Den Straftat-Bestand Beamtenbeleidigung gibt es im Strafgesetzbuch garnicht?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "In welchem Jahr wurde der Multiplayer in Minecraft hinzugefügt?",
+            "answer": "2009"
+        },
+        {
+            "question": "Richtig oder Falsch: Der Tiger ist die größte Katze der Welt?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Wer anderen eine Grube gräbt ...?",
+            "answer": "fällt selbst hinein"
+        },
+        {
+            "question": "Womit beschätigt sich ein Neurologe?",
+            "answer": "Nervensystem"
+        },
+        {
+            "question": "Wer hat 2012 die EM gewonnen?",
+            "answer": "Spanien"
+        },
+        {
+            "question": "Wie wird die Virusinfektion Influenza umgangsprachlich genannt?",
+            "answer": "Grippe"
+        },
+        {
+            "question": "Lieber den Spatz in der Hand als die Taube ...?",
+            "answer": "auf dem Dach"
+        },
+        {
+            "question": "Was ist die Hauptstadt der Schweiz?",
+            "answer": "Bern"
+        },
+        {
+            "question": "Wie heißt die Science-Fiction Filmreihe, in der Keanu Reeves einen Hacker spielt?",
+            "answer": "Matirx"
+        },
+        {
+            "question": "Aus wie vielen Fingergliedern besteht ein Mittelfinger?",
+            "answer": "3"
+        },
+        {
+            "question": "Wie lautet das chemische Symbol für Quecksilber?",
+            "answer": "Hg"
+        },
+        {
+            "question": "Nach welhem Vogel wurde eine Täuschungsmanöver im Fußball benannt?",
+            "answer": "Schwalbe"
+        },
+        {
+            "question": "Welches Unternehmen hat seinen Sitz in der ABC-Straße in Hamburg?",
+            "answer": "Google"
+        },
+        {
+            "question": "Welches Material enthält Kupfer und Zinn?",
+            "answer": "Bronze"
+        },
+        {
+            "question": "Was gillt als Motor der Industriellen Revolution?",
+            "answer": "Dampfmaschine"
+        },
+        {
+            "question": "Wie ist der name Microsoft entstanden?",
+            "answer": "Steht für Microcomputer Software"
+        },
+        {
+            "question": "Welcher Beruf bringt laut Aberglauben Glück ins Haus?",
+            "answer": "Schornsteinfeger"
+        },
+        {
+            "question": "Welcher deutscher Kanzler erhielt den Friedensnobelpreis?",
+            "answer": "Willy Brandt"
+        },
+        {
+            "question": "Welches bekannte Getränk wird aus Agave hergestellt?",
+            "answer": "Tequilla"
+        },
+        {
+            "question": "Richtig oder Falsch: In Australien ist Rechtsverkehr?",
+            "answer": "Falsch"
+        },
+        {
+            "question": "In welchem Land befindet sich Dubai?",
+            "answer": "Vereinigte Arabische Emirate"
+        },
+        {
+            "question": "Druch was lässt sich eine verformte Büroklammer wieder in die Ursprungsform zurücksetzten?",
+            "answer": "Durch Erhitzen/Wärme"
+        },
+        {
+            "question": "In welcher Stadt wurde John F. Kennedy erschossen?",
+            "answer": "Dallas"
+        },
+        {
+            "question": "Wofür steht die Abkürzung DSG bei einem Getriebe?",
+            "answer": "Direktschaltgetriebe"
+        },
+        {
+            "question": "Was machen Fledermäuse im Winter?",
+            "answer": "Winterschlaf"
+        },
+        {
+            "question": "Welches Dokument bestätigt den Besitz eines KFZ?",
+            "answer": "Fahrzeugbrief"
+        },
+        {
+            "question": "Wie ist der englische Begriff zur Arzneimittel?",
+            "answer": "drug oder medicine"
+        },
+        {
+            "question": "Eine Brille besteht überlicherweiße aus wie vielen Glässern?",
+            "answer": "2"
+        },
+        {
+            "question": "Heidi aus der Serie lebt in welchem Land?",
+            "answer": "Schweiz"
+        },
+        {
+            "question": "Der Arzneistoff Ibu heißt was ausgeschrieben?",
+            "answer": "Ibuprofen"
+        },
+        {
+            "question": "Was bedeutet Dehydration?",
+            "answer": "Zu wenig flüssigkeit"
+        },
+        {
+            "question": "Welches Tier legt Eier und ist ein Säugetier?",
+            "answer": "Schnabeltier"
+        },
+        {
+            "question": "Wer verkündet im Gericht das Urteil?",
+            "answer": "Der Richter"
+        },
+        {
+            "question": "Richtig oder Falsch: Rio ist die Hauptstadt von Brasilien?",
+            "answer": "Falsch"
+        },
+        {
+            "question": "Für welche Konsole erschien Super Mario 64?",
+            "answer": "Nintendo 64"
+        },
+        {
+            "question": "Wie heißt die Währung von England?",
+            "answer": "Pfund"
+        },
+        {
+            "question": "Wie heißt die Währung von China?",
+            "answer": "Renminbi Yuan"
+        },
+        {
+            "question": "Von welchem Staat ist der Papst das Oberhaupt?",
+            "answer": "Vatikan"
+        },
+        {
+            "question": "Welcher berühmte Künstler schnitt sich sein Ohr ab?",
+            "answer": "van Gogh"
+        },
+        {
+            "question": "Welche Länder grenzen an San Marino?",
+            "answer": "Italien"
+        },
+        {
+            "question": "Für was steht DAX?",
+            "answer": "Deutsche Aktien Index"
+        },
+        {
+            "question": "Mit einem Schlag einlochen heißt im Golf ...?",
+            "answer": "Hole in one"
+        },
+        {
+            "question": "Wie heißt das größte Korallenriff der Welt?",
+            "answer": "Great Barrier Reef"
+        },
+        {
+            "question": "Das Länderkennzeichen HR steht für ...?",
+            "answer": "Kroatien"
+        },
+        {
+            "question": "Was gibt der ISO-Wert in der Fotografie her?",
+            "answer": "Lichtempfindlichkeit"
+        },
+        {
+            "question": "Mit welchem Gerät wird radioaktive Strahlung gemessen?",
+            "answer": "Geigerzähler"
+        },
+        {
+            "question": "Was stellt die große Sphinx von Gizeh da?",
+            "answer": "Löwe mit Menschenkopf"
+        },
+        {
+            "question": "Was ist an North Sentinel Island so besonders?",
+            "answer": "Sie ist von feindlichen unkontaktieten Völkern bewohnt"
+        },
+        {
+            "question": "Wie wird der Wem-Fall oder auch 3. Fall noch genannt?",
+            "answer": "Dativ"
+        },
+        {
+            "question": "Wie viele Flächen hat eine Kugel?",
+            "answer": "1"
+        },
+        {
+            "question": "Das Lied Legends never Die stammt von welchem Spiel?",
+            "answer": "League of Legends"
+        },
+        {
+            "question": "Was ist der Plural von Pasta?",
+            "answer": "Pasten"
+        },
+        {
+            "question": "Wie heißt die Kinderserie mit Knolle?",
+            "answer": "Bob der Baumeister"
+        },
+        {
+            "question": "Wann wurde Rom gegründet?",
+            "answer": "753 vor Christus"
+        },
+        {
+            "question": "Das akustische Signal von Einsatzfahrzeugen heißt ...?",
+            "answer": "Martinshorn"
+        },
+        {
+            "question": "Wie bezeichnet man den Urknall noch?",
+            "answer": "Big Bang"
+        },
+        {
+            "question": "Aus was besteht Bronze?",
+            "answer": "Kupfer und Zinn"
+        },
+        {
+            "question": "Was ist die Hauptstadt von Portugal?",
+            "answer": "Lissabon"
+        },
+        {
+            "question": "Was ist das Gegenteil von Optimismus?",
+            "answer": "Pessimismus"
+        },
+        {
+            "question": "Wie nennt man die Pflanzenkunde?",
+            "answer": "Botanik"
+        },
+        {
+            "question": "Welche Länder liegen geographisch in Europa und gleichzeitig in Asien?",
+            "answer": "Türkei und Russland"
+        },
+        {
+            "question": "Wie heißt Indiens Hauptstadt?",
+            "answer": "Neu Dehli"
+        },
+        {
+            "question": "Welcher Vogel legt seine Eier in fremde Nester?",
+            "answer": "Der Kuckuck"
+        },
+        {
+            "question": "Welche Pflanze mit wie vielen Blättern gillt als Glückbringer?",
+            "answer": "Kleeblatt mit 4"
+        },
+        {
+            "question": "Was ist  'mp3'?",
+            "answer": "Ein Audiodateiformat"
+        },
+        {
+            "question": "Welcher amerikanischer Popstar hatte 2015 mit den Singels Sorry und Love Yourself hintereinander Charterfolge",
+            "answer": "Justin Bieber"
+        },
+        {
+            "question": "Sinus durch Kosinus ist gleich ...?",
+            "answer": "Tangens"
+        },
+        {
+            "question": "Was ist eine Hypotenuse?",
+            "answer": "Die Längste Seite bei einem recthwinkligen Dreieck"
+        },
+        {
+            "question": "Wie lange braucht die 'ISS' um die Erde einmal zu umrunden?",
+            "answer": "90 Minuten"
+        },
+        {
+            "question": "Wie heißt die Lokomotive von Jim Knopf?",
+            "answer": "Emma"
+        },
+        {
+            "question": "Was passiert in den Mitochondrien?",
+            "answer": "Zellatmung"
+        },
+        {
+            "question": "Wie viel Prozent Akku kann ein Handy maximal haben?",
+            "answer": "100%"
+        },
+        {
+            "question": "Was ist ein Anästhesist?",
+            "answer": "Narkosearzt"
+        },
+        {
+            "question": "Richtig oder Falsch: Aluminium ist magnetisch?",
+            "answer": "Falsch"
+        },
+        {
+            "question": "Nenne drei der Farben der Olympiaringe?",
+            "answer": "Blau, Gelb, Schwarz, Grün, Rot"
+        },
+        {
+            "question": "Wo ist die Europäische Zentralbank?",
+            "answer": "Frankfurt am Main"
+        },
+        {
+            "question": "John Deer ist ein Hersteller für welche Produkte?",
+            "answer": "Traktor"
+        },
+        {
+            "question": "Wie heißt der deutsche Nationaltrainer im Fußball?",
+            "answer": "Julian Nagelsmann"
+        },
+        {
+            "question": "Woher kommt der Satz Jemand hat die Arschkarte gezogen?",
+            "answer": "Fußball"
+        },
+        {
+            "question": "In welchem Jahr erschien der Song über die Geräusche eines Fuchses?",
+            "answer": "2013"
+        },
+        {
+            "question": "CAT5 ist ein Standart für ...?",
+            "answer": "Datenkabel, Internet"
+        },
+        {
+            "question": "Was sind -273 Grad Celsius in Kelvin?",
+            "answer": "0"
+        },
+        {
+            "question": "Nenne einen Nadelbaum der nie Zapfen trägt?",
+            "answer": "Es gibt keinen"
+        },
+        {
+            "question": "Ist etwas richtig, wird es oft mit welcher Farbe assoziiert?",
+            "answer": "Grün"
+        },
+        {
+            "question": "Die Hauptaufgabe von Schmetterlingen in der Natur ist welche?",
+            "answer": "Blumen bestäuben"
+        },
+        {
+            "question": "Das 'O' in OLED steht für welches Wort?",
+            "answer": "Organic"
+        },
+        {
+            "question": "Richtig oder Flasch: Ein zentrales Motive der Jamaika-Flagge ist ein Kreuz?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Der normale Hausanschluss an Frischwasser hat in der Regel welchen Druck?",
+            "answer": "3-4 Bar"
+        },
+        {
+            "question": "Richtig oder Falsch: Zum Frankfurter Flughafen fahren Züge?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Richtig oder Falsch: Eine Rücktrittsbremse beim Fahrrad bremst das Hinterrad?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Nicht nur Menschen haben Depressionen, auch unserer Erde hat diese. Was ist damit gemeint?",
+            "answer": "Tektonisch verursachte Senken auf dem Festland unter dem Meeresspiegel"
+        },
+        {
+            "question": "Der Death Valley Nationalpark liegt in welchem US-Bundesstaat?",
+            "answer": "Kalifornien und Nevada"
+        },
+        {
+            "question": "Der Yellowstone Nationalpark liegt in welchem US-Bundesstaat?",
+            "answer": "Wyoming"
+        },
+        {
+            "question": "Was ist das Gegenteil von Homogen?",
+            "answer": "Heterogen"
+        },
+        {
+            "question": "Das Ergebnis einer Division nennt man ...?",
+            "answer": "Quotient"
+        },
+        {
+            "question": "Das Ergebnis einer Multiplikation nennt man ...?",
+            "answer": "Produkt"
+        },
+        {
+            "question": "Richtig oder Falsch: Die Flagge Sloweniens hat das gleiche Seitenverhältnis wie die Deutsche?",
+            "answer": "Falsch"
+        },
+        {
+            "question": "Der längste U-Ban-Tunnel befindet sich in welchem Land?",
+            "answer": "China"
+        },
+        {
+            "question": "Welcher Bahnhof ist der meistbesuchte der Welt?",
+            "answer": "Shinjuku in Tokio"
+        },
+        {
+            "question": "Wie nennt man die Stufen bei einer Leiter?",
+            "answer": "Sprosse"
+        },
+        {
+            "question": "Wie heißen die Hunde, welche sich Spaghetti teilen?",
+            "answer": "Susi und Strolch"
+        },
+        {
+            "question": "Wie alt wurde Queen Elisabeth II.?",
+            "answer": "96"
+        },
+        {
+            "question": "Welches Gerät zeichnet Erschütterungen eines erdbebens auf?",
+            "answer": "Seismograph"
+        },
+        {
+            "question": "Welche drei Hauptplattformen dominieren den Konsolenmarkt?",
+            "answer": "PlayStation, Xbox und Switch"
+        },
+        {
+            "question": "Was bedeutet 'NPC'?",
+            "answer": "Non-Playable Character"
+        },
+        {
+            "question": "Was ist das besondere and einem 'Rougelike-Spiel'?",
+            "answer": "dauerhafter Tod"
+        },
+        {
+            "question": "Was ist der Hauptgegner in Zelda?",
+            "answer": "Ganondorf"
+        },
+        {
+            "question": "Was bedeutet 'RNG'?",
+            "answer": "Random Number generator"
+        },
+        {
+            "question": "Wann erschien die PlayStation 1",
+            "answer": "1994"
+        },
+        {
+            "question": "Was bedeutet 'HUD'?",
+            "answer": "Heads-Up Display"
+        },
+        {
+            "question": "Welches Studio entwickelte 'Dark Souls'?",
+            "answer": "FromSoftware"
+        },
+        {
+            "question": "Wie heißt die Hauptfigur in 'HalfLife'",
+            "answer": "Gordan Freeman"
+        },
+        {
+            "question": "Wie heißt der Game Director hinter 'Metal Gear Solid'?",
+            "answer": "Hideo Kojima"
+        },
+        {
+            "question": "Was bedeutet 'DPS'?",
+            "answer": "Damage per Second"
+        },
+        {
+            "question": "In welchem Spiel erscheint der Charakter Arthur Morgan?",
+            "answer": "Red Dead Redemption 2"
+        },
+        {
+            "question": "Welches Studio hat 'The Last of Us' entwickelt?",
+            "answer": "Naughty Dog"
+        },
+        {
+            "question": "Was ist der Konami Code?",
+            "answer": "Ein bekannter Cheat-Code"
+        },
+        {
+            "question": "In welchem Spiel kann man Nuka-Cola trinken?",
+            "answer": "Fallout"
+        },
+        {
+            "question": "Wie heißt der Erfinder von 'Super Mario' und 'The Legend of Zelda'?",
+            "answer": "Shigeru Miyamoto"
+        },
+        {
+            "question": "Wie heißt die KI aus 'Halo'?",
+            "answer": "Cortana"
+        },
+        {
+            "question": "Wann wurde 'League of Legends' veröffentlicht?",
+            "answer": "2009"
+        },
+        {
+            "question": "Wie heißt die geheimnisvolle Begleiterin in 'Elden Ring', welche den Spieler mit Macht stärkt?",
+            "answer": "Melina"
+        },
+        {
+            "question": "In welchem Land liegt die Wüste Sahara größtenteils?",
+            "answer": "Algerien"
+        },
+        {
+            "question": "Welches Land hat die meisten Nachbarländer?",
+            "answer": "China"
+        },
+        {
+            "question": "Welche Hauptstadt liegt am südlichsten der Welt?",
+            "answer": "Wellington (Neuseeland)"
+        },
+        {
+            "question": "Wo sind die Anden?",
+            "answer": "In Südamerika"
+        },
+        {
+            "question": "Welches Land hat die längste Küstenlinie der Welt?",
+            "answer": "Kanada"
+        },
+        {
+            "question": "Was ist die Hauptstadt von Kanada?",
+            "answer": "Ottawa"
+        },
+        {
+            "question": "In welchem US-Bundesstaat befindet sich der Grand Canyon?",
+            "answer": "Arizona"
+        },
+        {
+            "question": "Welches Gebirge bildet die Grenze zwischen Europa und Asien?",
+            "answer": "Uralgebirge"
+        },
+        {
+            "question": "Wie nennt man die Schildkröten in 'Super Mario'?",
+            "answer": "Koopas"
+        },
+        {
+            "question": "Wie heißen Fahrräder für das Gelände?",
+            "answer": "Mountain Bike"
+        },
+        {
+            "question": "Wie heißt der Sänger von der Band 'Nirvana'?",
+            "answer": "Kurt Cobain"
+        },
+        {
+            "question": "Richtig oder Falsch: Die Hauptstadt von Peur ist Lima?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Was ist die größte Eulen-Art?",
+            "answer": "Uhu"
+        },
+        {
+            "question": "Wie nennt man die Schriftzeichen der alten Ägypter?",
+            "answer": "Hieroglyphen"
+        },
+        {
+            "question": "Wie viele Mannschaften gibt es in einem Achtelfinale?",
+            "answer": "16"
+        },
+        {
+            "question": "Wie heißt der Publisher und Entwickler von 'Battlefield'?",
+            "answer": "EA und Dice"
+        },
+        {
+            "question": "In welcher Stadt lebend Tick, Trick und Track?",
+            "answer": "Entenhausen"
+        },
+        {
+            "question": "In welchem Musikvideo zu welchem Song hat Drake eine Millionen Dollar verschenkt?",
+            "answer": "Gods plan"
+        },
+        {
+            "question": "Wie heißt Spiderman mit bürgerlichen Namen?",
+            "answer": "Peter Parker"
+        },
+        {
+            "question": "Wohin geht warme Luft?",
+            "answer": "Nach oben"
+        },
+        {
+            "question": "Zagreb ist die Hauptstadt welchen Landes?",
+            "answer": "Kroatien"
+        },
+        {
+            "question": "Welches Orang ist für das entgiften von Alkohol im Blut zuständig?",
+            "answer": "Leber"
+        },
+        {
+            "question": "Was ist die Amtssprache von Brasilien?",
+            "answer": "Portugiesisch"
+        },
+        {
+            "question": "Wo befindet sich der Walk of Fame",
+            "answer": "Los Angeles"
+        },
+        {
+            "question": "Wie kühlt sich der Körper ab?",
+            "answer": "Schwitzen"
+        },
+        {
+            "question": "Indianer Jones ist Professor in welchem Fachgebiet?",
+            "answer": "Archäologie"
+        },
+        {
+            "question": "Wie heißt Tadeus mit Nachname?",
+            "answer": "Tentakel"
+        },
+        {
+            "question": "Wie viele Nullen hat eine Billionen?",
+            "answer": "12"
+        },
+        {
+            "question": "Welche Farbe hat der Umhang von Superman?",
+            "answer": "Rot"
+        },
+        {
+            "question": "Von welchem Fisch kommt in der Regel Kaviar?",
+            "answer": "Stör"
+        },
+        {
+            "question": "Welche Farben hat die Flagge von Griechenland?",
+            "answer": "Blau und Weiß"
+        },
+        {
+            "question": "Was ist das Nachbarland vom Vatikan?",
+            "answer": "Italien"
+        },
+        {
+            "question": "Richtig oder Falsch: Österreich hat als Länderdomain AU?",
+            "answer": "Falsch, es ist AT"
+        },
+        {
+            "question": "Von wem ist der Song Elektrotitte?",
+            "answer": "Gronkh und Sarazar"
+        },
+        {
+            "question": "Was ist der englische Begriff für Haferbrei?",
+            "answer": "Porridge"
+        },
+        {
+            "question": "In welchem US-Bundesstaat liegt Brooklyn?",
+            "answer": "New York"
+        },
+        {
+            "question": "Wer moderiert 'GNTM'?",
+            "answer": "Heidi Klum"
+        },
+        {
+            "question": "Mit was riechen Schlangen?",
+            "answer": "Mit der Zunge"
+        },
+        {
+            "question": "Ws macht eine Eidechse, wenn man sie am Schwanz packt?",
+            "answer": "Den Schwanz abwerfen"
+        },
+        {
+            "question": "Wie wird das Spiel zwischen FC Barcelona und Real Madrd genannt?",
+            "answer": "El Clasico"
+        },
+        {
+            "question": "Richtig oder Falsch: 2022 war ein Schaltjahr?",
+            "answer": "Falsch"
+        },
+        {
+            "question": "Was ist die Hauptstadt von Polen?",
+            "answer": "Warschau"
+        },
+        {
+            "question": "Welche Farben haben die Streifen in der Flagge von Spanien?",
+            "answer": "Rot und Gelb"
+        },
+        {
+            "question": "Was ist die Hauptstadt von Italien?",
+            "answer": "Rom"
+        },
+        {
+            "question": "Was bedeutet Demokratie wörtlich?",
+            "answer": "Herrschaft des Volkes"
+        },
+        {
+            "question": "Wie nennt man die biologische Fachrichtung für Tiere?",
+            "answer": "Zoologie"
+        },
+        {
+            "question": "Welche Sprache wird in den USA nach Englisch am zweit meisten gesprochen?",
+            "answer": "Spanisch"
+        },
+        {
+            "question": "Wer wurde am 20.01.2021 der 46 Präsident der USA?",
+            "answer": "Joe Biden"
+        },
+        {
+            "question": "Welches Dateiformat öffnent man typischerweise mit dem 'Acrobat Reader'?",
+            "answer": "PDF"
+        },
+        {
+            "question": "Wie lange geht ein Marathon?",
+            "answer": "42km"
+        },
+        {
+            "question": "In welchem Land liegt der Machu Picchu?",
+            "answer": "Peru"
+        },
+        {
+            "question": "Was war der dritt-tödlichster Konflikt in der Menschheitsgeschichte?",
+            "answer": "Taiping Aufstand"
+        },
+        {
+            "question": "Wer kämpfte im Hundertjährigen Krieg?",
+            "answer": "England und Frankreich"
+        },
+        {
+            "question": "Richtig oder Falsch: Der Hundertjährige Krieg dauerte 100 Jahre?",
+            "answer": "Falsch, 116 Jahre"
+        },
+        {
+            "question": "In was verwandeln sich die meisten Raupen?",
+            "answer": "Schmetterling oder Motten"
+        },
+        {
+            "question": "Welchen Spitznamen hatte der ehemaliger Fußballspieler Franz Beckenbauer?",
+            "answer": "Kaiser"
+        },
+        {
+            "question": "Richtig oder Flasch: New York die Stadt mit den meisten Brücken?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Richtig oder Falsch: Hamburg hat mehr Brücken als Venedig und Amsterdam zusammen?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Was erfand Adolf Dassler?",
+            "answer": "adidas (Lajufschuhe und Stollen)"
+        },
+        {
+            "question": "In welchem Land befindet sich die Größe Sphinx?",
+            "answer": "Ägypthen"
+        },
+        {
+            "question": "Wie viele Augen hat eine Ente?",
+            "answer": "2"
+        },
+        {
+            "question": "Wer Comic-Charakter mit einem Blitz als Logo ist bekannt für seinen Geschwindigkeit?",
+            "answer": "The Flash"
+        },
+        {
+            "question": "Die Flagge von Ungarn beinhaltet welche Farben?",
+            "answer": "Grün, Rot und Weiß"
+        },
+        {
+            "question": "Wer spielt die Hauptrolle in Forrest Gump?",
+            "answer": "Tom Hanks"
+        },
+        {
+            "question": "Wie viele Monate haben 28 Tage?",
+            "answer": "Alle"
+        },
+        {
+            "question": "Welcher Streamingdienst produzierte die Serie 'Stranger Things'?",
+            "answer": "Netflix"
+        },
+        {
+            "question": "Welche Farbe hat die Innenseite einer Wassermelone?",
+            "answer": "Rot"
+        },
+        {
+            "question": "Welcher Schauspieler hatte die Rolle von James Bond in 'Casino Royal'?",
+            "answer": "Daniel Craig"
+        },
+        {
+            "question": "Welcher Planet ist, nach Durchmesser, der zweit Größte in unserem Sonnensystem?",
+            "answer": "Saturn"
+        },
+        {
+            "question": "Wer schrieb das Buch 'Romeo und Julia'?",
+            "answer": "W. Shakespeare"
+        },
+        {
+            "question": "Wie nennt man den Prozess, bei dem Wasser zu Eis wird?",
+            "answer": "Gefrieren"
+        },
+        {
+            "question": "Welcher Muskel ist der wichtigste für das Atmen?",
+            "answer": "Zwerchfell"
+        },
+        {
+            "question": "Wer malte das Gemälde 'Die Sternennacht'?",
+            "answer": "Vincent van Gogh"
+        },
+        {
+            "question": "Wie nennt man die Studie der Erde und ihre Entwicklung?",
+            "answer": "Geologie"
+        },
+        {
+            "question": "In welchem Verlag wurden die meisten Superman-Comics veröffentlicht?",
+            "answer": "DC-Comics"
+        },
+        {
+            "question": "Wer ist der King of Pop?",
+            "answer": "Michael Jackson"
+        },
+        {
+            "question": "In welchem Film spielt Will Smith einen Überlebenden in einer postapokalyptischen Welt?",
+            "answer": "I am Legend"
+        },
+        {
+            "question": "Welcher berühmte Komponist war taub?",
+            "answer": "Ludwig van Beethoven"
+        },
+        {
+            "question": "Wer ist der legendäre Videospielheld, welcher gegen Ganon kämpft?",
+            "answer": "Link"
+        },
+        {
+            "question": "Wessen Freunde sind Tails und Knuckles?",
+            "answer": "Sonic"
+        },
+        {
+            "question": "Richtig oder Falsch: Der schnellste Boxenstop in der Formel 1 dauerte unter 2 Sekunden?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "5 * 15 = ...?",
+            "answer": "75"
+        },
+        {
+            "question": "Wie heißt das Erkundungs und Survival Spiel von Irongate?",
+            "answer": "Valheim"
+        },
+        {
+            "question": "Die Brüder in Supernatrual heißen wie ein bekanntes Gewehr, also ...?",
+            "answer": "Winchester"
+        },
+        {
+            "question": "Was für ein Tier spielt man in 'Cult of the Lamb'?",
+            "answer": "Schaf"
+        },
+        {
+            "question": "Von welcher Band ist der Song 'Perfekte Welle'?",
+            "answer": "Juli"
+        },
+        {
+            "question": "Welcher ehemalige Fußballer wird 'Der Kaiser' genannt?",
+            "answer": "Franz Beckenbauer"
+        },
+        {
+            "question": "Wie heißt der sprechende Kopf aus 'God of War'?",
+            "answer": "Mimir"
+        },
+        {
+            "question": "Bei welchem Filmstuido sitzt ein kleiner Mann mit Angel im Logo?",
+            "answer": "DreamWorks"
+        },
+        {
+            "question": "Wo liegt die Promillegrenze in Ungarn, Tschechien und Kroatien?",
+            "answer": "0.0"
+        },
+        {
+            "question": "Wie viele Zähne hat eine Mosquito?",
+            "answer": "47"
+        },
+        {
+            "question": "Ab welchen Alter ist 'CoD:MW2' laut USK freigegeben?",
+            "answer": "18"
+        },
+        {
+            "question": "Wenn Vorsicht die Mutter der Porzellankiste ist, wer ist dann die Tochter?",
+            "answer": "Porzellankiste"
+        },
+        {
+            "question": "Zu welchen Tieren gehören Makaken?",
+            "answer": "Affen"
+        },
+        {
+            "question": "welcher Disneyflim handelt von einer Meerjungfrau die sich in einen Menschen verliebt",
+            "answer": "Arielle"
+        },
+        {
+            "question": "Wie heißt die erfolfreichste Reality-Show?",
+            "answer": "Keeping up with the Kardashians"
+        },
+        {
+            "question": "Welcher Tierart gehören die Hauptfiguren in 'Paw Patrol' an?",
+            "answer": "Hunden"
+        },
+        {
+            "question": "Wer ist der Schöpfer von Spiderman?",
+            "answer": "Stan Lee"
+        },
+        {
+            "question": "Wie lange dauert normalerweise ein Jahr auf der Erde?",
+            "answer": "365 Tage"
+        },
+        {
+            "question": "Wer hat die erste Bibelübersetzung in Deutsche vorgenommen?",
+            "answer": "Martin Luther"
+        },
+        {
+            "question": "Wer ist die bekannteste Teenie-Popsängerin der 2000er?",
+            "answer": "Britney Spears"
+        },
+        {
+            "question": "Welcher Song machte den Rapper Lil Nas X im Jahr 2019 berühmt?",
+            "answer": "Old Town Road"
+        },
+        {
+            "question": "Welche Farben hat die Flagge von Frankreich?",
+            "answer": "Blau, Weiß, Rot"
+        },
+        {
+            "question": "Wer gewann im Jahr 2016 den Oscar für Bester Schauspieler in seiner Rolle in 'The Revenant'?",
+            "answer": "Leonardo DiCaprio"
+        },
+        {
+            "question": "Wer wurde im Jahr 1871 der erste detusche Reichskanzler?",
+            "answer": "Otto von Bismarck"
+        },
+        {
+            "question": "In welchem Jahr fand die Fußball-EM in Österreich und der Schweiz statt?",
+            "answer": "2008"
+        },
+        {
+            "question": "Was bezeichnet man in der Seefahrt als Kaperei?",
+            "answer": "Gewaltakte und Plünderungen auf See"
+        },
+        {
+            "question": "Welcher bekannte Rapper wurde am 07.07.96 in Las Vegas erschossen?",
+            "answer": "Tupac Shakur"
+        },
+        {
+            "question": "In welchem heutigen Land liegt die damalige Hauptstadt Cusco der Inkas?",
+            "answer": "Peru"
+        },
+        {
+            "question": "Für was wird ein Aquädukt verwendet?",
+            "answer": "Wassertransport"
+        },
+        {
+            "question": "Wer spielt die weibliche Hauptrolle in Die Tribute von Panem?",
+            "answer": "Jennifer Lawrence"
+        },
+        {
+            "question": "Gegen wenn gewann die Deutsche Basketball Nationalmanschaft das WM-Fianle 2023?",
+            "answer": "Serbien"
+        },
+        {
+            "question": "Welche Kunstfigur heißt mit bürgerlichem Namen Marshall Mathers?",
+            "answer": "Eminem"
+        },
+        {
+            "question": "Welcher Religion gehört der Dalai Lama an?",
+            "answer": "Buddhismus"
+        },
+        {
+            "question": "In welcher Stadt lag der Zielhafen der RMS Titanic auf ihrer Jungfernfahrt im Jahr 1912?",
+            "answer": "New York"
+        },
+        {
+            "question": "Welche ist die längste Autobahn in Deutschland?",
+            "answer": "A7"
+        },
+        {
+            "question": "Welcher bekannt Regisseur arbeitete am Film 'Schindlers Liste'?",
+            "answer": "Steven Spielberg"
+        },
+        {
+            "question": "Welche Farbe hat ein 100€ Schein?",
+            "answer": "Grün"
+        },
+        {
+            "question": "Was passierte mit Lady Diana?",
+            "answer": "Starb in einem Autounfall"
+        },
+        {
+            "question": "Für was steht das F. in John F. Kennedy?",
+            "answer": "Fitzgerald"
+        },
+        {
+            "question": "Wie heißt die Währung Tschechiens?",
+            "answer": "Tschechische Krone"
+        },
+        {
+            "question": "Worunter leidet man, wenn man eine Pneumonie hat?",
+            "answer": "Lungenentzündung"
+        },
+        {
+            "question": "Wie heißt das letzte Album der Beatles?",
+            "answer": "Let It Be"
+        },
+        {
+            "question": "In welchem US-Bundesstatt steht der Mt. Rushmore?",
+            "answer": "South Dakota"
+        },
+        {
+            "question": "Wodurch wurde der Dreißigjähriger Krieg ausgelöst?",
+            "answer": "Der Prager Fenstersturz"
+        },
+        {
+            "question": "In Welchem Land befindet sich die Stadt Medellin mit 2.6 Mio. Einwohnern?",
+            "answer": "Kolumbien"
+        },
+        {
+            "question": "Wie viele m^2 ergeben ein Hektar?",
+            "answer": "10.000m^2"
+        },
+        {
+            "question": "Was ist die 2. Note der G-Dur Tonleiter?",
+            "answer": "A"
+        },
+        {
+            "question": "Wie heißt das größte Bauwerk in Paris?",
+            "answer": "Eifeltrum"
+        },
+        {
+            "question": "Wie heißt die Sängerin des Songs 'Wrecking Ball'?",
+            "answer": "Miley Cyrus"
+        },
+        {
+            "question": "Wie nennt man die Flüssigkeit, die in einem Thermometer verwendet wird?",
+            "answer": "Quecksilber"
+        },
+        {
+            "question": "Wie nennt man die Kunst des Schreibens von schönen Buchstaben",
+            "answer": "Kalligraphie"
+        },
+        {
+            "question": "In welchem Jahr wurde der erste StarWars Film veröffentlicht?",
+            "answer": "1977"
+        },
+        {
+            "question": "Was ist das größte deutsche Entwicklerstudio?",
+            "answer": "Ubisoft Blue Byte"
+        },
+        {
+            "question": "Wer brachte den ersten iPod auf den Markt?",
+            "answer": "Apple"
+        },
+        {
+            "question": "Welches soziale Netzwerk wurde im Februar 2004 gegründet?",
+            "answer": "Facebook"
+        },
+        {
+            "question": "Wer speitl die Hauptrolle im Film 'Black Panther' aus 2018?",
+            "answer": "Chadwick Boseman"
+        },
+        {
+            "question": "Welches Apple Produkt wurde erstmal im Jahr 2007 veröffentlicht?",
+            "answer": "iPhone"
+        },
+        {
+            "question": "Welches chemische Element hat die Bezeichnung 'Na'?",
+            "answer": "Natrium"
+        },
+        {
+            "question": "Was bedeutet der Wert 9,81 m/s2? in der Physik?",
+            "answer": "Fallbeschleunigung"
+        },
+        {
+            "question": "Welches chemische Element hat die Bezeichung 'Fe'?",
+            "answer": "Eisen"
+        },
+        {
+            "question": "Wie heißt der Prozess, in der sich Zellen teilen?",
+            "answer": "Mitose"
+        },
+        {
+            "question": "Welches Organ ist dür die Filterung von Blut verantwortlich?",
+            "answer": "Niere"
+        },
+        {
+            "question": "Wie nennt man die Studie von Planeten und Sternen?",
+            "answer": "Astronomie"
+        },
+        {
+            "question": "Welches Obst ist Hauptbestandteil eines Apfelkuchens?",
+            "answer": "Apfel"
+        },
+        {
+            "question": "Wie heißt die Schauspielerin von Hermine Granger?",
+            "answer": "Emma Watson"
+        },
+        {
+            "question": "Welches Gewürz verleiht Currypulver seine gelbe Farbe?",
+            "answer": "Kurkuma"
+        },
+        {
+            "question": "Welcher Film gewann den Oscar für den besten animierten Spielfilm 2019?",
+            "answer": "Spiderman: Into the Spiderverse"
+        },
+        {
+            "question": "Wer ist die Singerin von 'Rolling into the Deep'?",
+            "answer": "Adele"
+        },
+        {
+            "question": "Welche Automarke produziert den Mustang?",
+            "answer": "Ford"
+        },
+        {
+            "question": "welches Genre ist typisch für Bob Marley?",
+            "answer": "Reggae"
+        },
+        {
+            "question": "Welche amerikanische Sportliga ist für den Superbowl bekannt?",
+            "answer": "NFL"
+        },
+        {
+            "question": "Was ist auf dem Standart Mod-Badge von Twitch zu sehen?",
+            "answer": "Ein Schwert"
+        },
+        {
+            "question": "In welchem US-Bundesstatt steht die Golden Gate Bridge?",
+            "answer": "Kalifornien"
+        },
+        {
+            "question": "Richtig oder Falsch: LaLiga ist die italenische Fußball Liga?",
+            "answer": "Falsch"
+        },
+        {
+            "question": "Wie viele Lungenflügel besitzt in der Regel ein Mensch?",
+            "answer": "2"
+        },
+        {
+            "question": "Was ist die größte Schneckenart in Deutschland?",
+            "answer": "Weinbergschnecke"
+        },
+        {
+            "question": "Was hat 'The Rock' vor seinem Hollywood-Durchbruch gemacht?",
+            "answer": "Er war Wrestler"
+        },
+        {
+            "question": "Wie viele Minuten sind sieben Stunde?",
+            "answer": "420"
+        },
+        {
+            "question": "Richtig oder Falsch: Die Erde umkreist die Sonne in einem Monat?",
+            "answer": "Falsch, ein Jahr"
+        },
+        {
+            "question": "Welche Farben hat die Flagge von Italien?",
+            "answer": "Rot, weiß und grün"
+        },
+        {
+            "question": "Wie viele 'Hangover'-Teile gibt es?",
+            "answer": "3"
+        },
+        {
+            "question": "Ein Bauer hat 16 Schafe. Fast alle sterben, bis auf 9. Wie viele hat er?",
+            "answer": "9"
+        },
+        {
+            "question": "Wie heißt der bekannte rote Edelstein?",
+            "answer": "Rubin"
+        },
+        {
+            "question": "Welche Figur hat eine Wunderlampe?",
+            "answer": "Aladin"
+        },
+        {
+            "question": "Auf welchem Kontinet befindet sich die Wüste 'Gobi'?",
+            "answer": "Asien"
+        },
+        {
+            "question": "Richtig oder Flasch: Die Amtssprache von Aruba ist Niederländisch?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "Was ist die Hauptstadt von Finnland?",
+            "answer": "Helsinki"
+        },
+        {
+            "question": "Wie viele Phasen hat das deutsch Haushaltsstromnetz?",
+            "answer": "3"
+        },
+        {
+            "question": "Aus was besteht eine Graphit?",
+            "answer": "Kohlenstoff"
+        },
+        {
+            "question": "Welcher Aggregatzustand hat der innere Erdkern?",
+            "answer": "Fest"
+        },
+        {
+            "question": "Nenne die drei Aggregatzustände?",
+            "answer": "Fest, flüssig und Gasförmig"
+        },
+        {
+            "question": "Welches Element hat die erste Ordnungszahl im Periodensystem?",
+            "answer": "Wasserstoff"
+        },
+        {
+            "question": "Wie mit welcher Technologie funktionieren moderne Induktionskochfelder?",
+            "answer": "Magnetfelder"
+        },
+        {
+            "question": "Was hört man schneller: Den Donner oder den Blitz?",
+            "answer": "Donner, den Blitz hört man nicht"
+        },
+        {
+            "question": "Aus welchem Material besteht der Eiffelturm zum großen Teil?",
+            "answer": "Stahl"
+        },
+        {
+            "question": "Aus welchem Land stammt das traditonelle Essen 'Ramen'?",
+            "answer": "Japan"
+        },
+        {
+            "question": "Wie nennt man ein männliches Schwein?",
+            "answer": "Eber"
+        },
+        {
+            "question": "Welchen pH-Wert hat reines Wasser?",
+            "answer": "7"
+        },
+        {
+            "question": "Wie heißt die gesetzgebende Gewalt?",
+            "answer": "Legislative"
+        },
+        {
+            "question": "Mit welcher Mehrheit können Verfassungsänderungen gemacht werden?",
+            "answer": "Zwei Drittel"
+        },
+        {
+            "question": "Was heißt 'DDR' asugesprochen?",
+            "answer": "Deutsche Demokratische Republik"
+        },
+        {
+            "question": "Was heißt 'BRD' ausgesprochen?",
+            "answer": "Bundesrepublik Deutschland"
+        },
+        {
+            "question": "Wie heißt die handheld Konsole von Steam?",
+            "answer": "Steam Deck"
+        },
+        {
+            "question": "Welche Art von Gebäude ist im Vorspann von Disney zu sehen?",
+            "answer": "Ein Schloss"
+        },
+        {
+            "question": "Aus welchem Land stammte der Parmesan ursprünglich?",
+            "answer": "Italien"
+        },
+        {
+            "question": "Wer schoss 2014 das Siegtor für Deutschland?",
+            "answer": "Mario Götze"
+        },
+        {
+            "question": "Welcher Stern ist von der Erde aus geshen der Hellste?",
+            "answer": "Die Sonne"
+        },
+        {
+            "question": "Richtig oder Falsch: Das Gehirn besteht zu 40% aus Wasser?",
+            "answer": "Richtig"
+        },
+        {
+            "question": "In welchem Land befindet sich das Taj Mahal?",
+            "answer": "Indien"
+        },
+        {
+            "question": "In welchem Land wurde Elon Musk geboren?",
+            "answer": "Südafrika"
+        },
+        {
+            "question": "Wie heißt die Hauptstadt von Dänemark?",
+            "answer": "Kopenhagen"
+        },
+        {
+            "question": "In welchem Bundesland liegt der FLughafen 'BER'?",
+            "answer": "Brandenburg"
+        },
+        {
+            "question": "Welche Farben enthält die Flagge von Dänemark?",
+            "answer": "Rot und weiß"
+        },
+        {
+            "question": "Wie heißt der sprechende Baum aus 'Guardians of the Galaxy'?",
+            "answer": "Groot"
+        },
+        {
+            "question": "Wer oder was verleiht Flügel?",
+            "answer": "RedBull"
+        },
+        {
+            "question": "Welches alkohlische Getränk hat den selben Namen wie ein Virus?",
+            "answer": "Corona"
+        },
+        {
+            "question": "In welchem Jahr erschien Pokemon GO?",
+            "answer": "2016"
+        },
+        {
+            "question": "Wie lautet der korrekte Name des Jungel Camps auf RTL?",
+            "answer": "Ich bin ein Star, holt mich hier raus."
+        }
+    ]
+}
